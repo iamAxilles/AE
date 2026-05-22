@@ -6,21 +6,21 @@
             credentials: 'include'
         });
             let FER = await fech.json();
-         SRjson = JSON.parse(FER);
+         // FER = JSON.parse(FER);
 
-        sorts.dates(SRjson);
+        sorts.dates(FER);
             
         
     $(`select[name='sort']`).change(function(){var sor = $(this).val() //console.info(sor)
             switch (sor){
                 case 'updated':
-                    sorts.dates(SRjson);
+                    sorts.dates(FER);
                     break;
                 case 'pricelow':
-                    sorts.pricelow(SRjson);
+                    sorts.pricelow(FER);
                     break;
                 case 'kmlow':
-                    sorts.kmlow(SRjson);
+                    sorts.kmlow(FER);
                     break;
               }
 
@@ -45,7 +45,7 @@
       $('select.kuzova option:contains("E90")').prop('selected', true)
     }
 
-/*    switch (wls){
+     switch (wls){
         case wls.includes('?bmw=3'):
             $('select.kuzova option:contains("Generation")').prop('selected', true)
         //f05f.classList.replace("u-section-1", "bmw3");
@@ -59,7 +59,7 @@
         case wls=`?bmw=3-E90`:
             $('select.kuzova option:contains("E90")').prop('selected', true)
             break
-        } //для перекидывания ссылки*/
+        } //для перекидывания ссылки в кузов
 
 
     let wla = l => window.location.assign(l);
