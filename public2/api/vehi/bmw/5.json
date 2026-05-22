@@ -1,0 +1,1232 @@
+{
+    "Count": 1163,
+    "SearchResults": [
+        {
+            "Id": "40010640",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture10/pic4000/40002454_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture10/pic4000/40002454_001.jpg",
+                    "updatedDate": "2025-07-03T05:26:51Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture10/pic4000/40002454_003.jpg",
+                    "updatedDate": "2025-07-03T05:26:51Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture10/pic4000/40002454_004.jpg",
+                    "updatedDate": "2025-07-03T05:26:51Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture10/pic4000/40002454_007.jpg",
+                    "updatedDate": "2025-07-03T05:26:51Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "520i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202010,
+            "FormYear": "2021",
+            "Mileage": 104696,
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 3750,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-01-29 11:21:04.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "카피디",
+            "DealerName": "우병극"
+        },
+        {
+            "Id": "40988929",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture07/pic4097/40972495_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture07/pic4097/40972495_001.jpg",
+                    "updatedDate": "2025-11-18T05:07:32Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture07/pic4097/40972495_003.jpg",
+                    "updatedDate": "2025-11-18T05:07:32Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture07/pic4097/40972495_004.jpg",
+                    "updatedDate": "2025-11-18T05:07:32Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture07/pic4097/40972495_007.jpg",
+                    "updatedDate": "2025-11-18T05:07:32Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "520i 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202105,
+            "FormYear": "2021",
+            "Mileage": 56024,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 4300,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-01-29 11:20:05.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "아이앤지 모터스",
+            "DealerName": "하성철"
+        },
+        {
+            "Id": "40002454",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture10/pic4000/40002454_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture10/pic4000/40002454_001.jpg",
+                    "updatedDate": "2025-07-03T05:26:51Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture10/pic4000/40002454_003.jpg",
+                    "updatedDate": "2025-07-03T05:26:51Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture10/pic4000/40002454_004.jpg",
+                    "updatedDate": "2025-07-03T05:26:51Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture10/pic4000/40002454_007.jpg",
+                    "updatedDate": "2025-07-03T05:26:51Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "520i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202010,
+            "FormYear": "2021",
+            "Mileage": 104696,
+            "AdWords": "#1인신조 #완전무사고 #보험0건 #병적으로관리한차량 #컨디션굿",
+            "Hotmark": "10;22;24",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 3750,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-01-29 11:20:04.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "카피디",
+            "DealerName": "우병극"
+        },
+        {
+            "Id": "38655122",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture05/pic3865/38655122_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture05/pic3865/38655122_001.jpg",
+                    "updatedDate": "2024-12-04T08:40:50Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture05/pic3865/38655122_003.jpg",
+                    "updatedDate": "2024-12-04T08:40:50Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture05/pic3865/38655122_004.jpg",
+                    "updatedDate": "2024-12-04T08:40:50Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture05/pic3865/38655122_007.jpg",
+                    "updatedDate": "2024-12-04T08:40:50Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "520d xDrive M 스포츠 플러스",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201802,
+            "FormYear": "2018",
+            "Mileage": 98584,
+            "AdWords": "엔카에서 촬영한 100% 실매물 차량입니다.",
+            "Hotmark": "13;14;20",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 2930,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-01-29 11:20:04.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "명품모터스",
+            "DealerName": "이성섭"
+        },
+        {
+            "Id": "40421619",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture02/pic4042/40421619_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4042/40421619_001.jpg",
+                    "updatedDate": "2025-09-01T02:24:29Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4042/40421619_003.jpg",
+                    "updatedDate": "2025-09-01T02:24:29Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4042/40421619_004.jpg",
+                    "updatedDate": "2025-09-01T02:24:29Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4042/40421619_007.jpg",
+                    "updatedDate": "2025-09-01T02:24:29Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "520i 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201810,
+            "FormYear": "2018",
+            "Mileage": 104528,
+            "Powerpack": "엔카 실촬영",
+            "Hotmark": "14;15;13",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 2150,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-01-29 11:20:04.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "더블유 모터스",
+            "DealerName": "한금수"
+        },
+        {
+            "Id": "41380684",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4136/41368604_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4136/41368604_001.jpg",
+                    "updatedDate": "2026-01-20T07:54:13Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4136/41368604_003.jpg",
+                    "updatedDate": "2026-01-20T07:54:13Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4136/41368604_004.jpg",
+                    "updatedDate": "2026-01-20T07:54:13Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4136/41368604_007.jpg",
+                    "updatedDate": "2026-01-20T07:54:13Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "520d xDrive M 스포츠 플러스",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201804,
+            "FormYear": "2018",
+            "Mileage": 73578,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 3370,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-01-29 11:20:03.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "브라더오토모빌",
+            "DealerName": "김정환"
+        },
+        {
+            "Id": "41186205",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture07/pic4117/41174110_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture07/pic4117/41174110_001.jpg",
+                    "updatedDate": "2025-12-17T05:09:54Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture07/pic4117/41174110_003.jpg",
+                    "updatedDate": "2025-12-17T05:09:54Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture07/pic4117/41174110_004.jpg",
+                    "updatedDate": "2025-12-17T05:09:54Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture07/pic4117/41174110_007.jpg",
+                    "updatedDate": "2025-12-17T05:09:54Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "520i 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201911,
+            "FormYear": "2020",
+            "Mileage": 69509,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 3180,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-01-29 11:20:03.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "아이앤지 모터스",
+            "DealerName": "하성철"
+        },
+        {
+            "Id": "41409957",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture10/pic4140/41409957_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture10/pic4140/41409957_001.jpg",
+                    "updatedDate": "2026-01-26T06:57:21Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture10/pic4140/41409957_003.jpg",
+                    "updatedDate": "2026-01-26T06:57:21Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture10/pic4140/41409957_004.jpg",
+                    "updatedDate": "2026-01-26T06:57:21Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture10/pic4140/41409957_007.jpg",
+                    "updatedDate": "2026-01-26T06:57:21Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (F10)",
+            "Badge": "520d xDrive M 에어로 다이나믹",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201607,
+            "FormYear": "2016",
+            "Mileage": 109276,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 1640,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-01-29 11:19:58.000 +09",
+            "OfficeCityState": "대전",
+            "OfficeName": "아성모터스",
+            "DealerName": "임창용"
+        },
+        {
+            "Id": "40972495",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture07/pic4097/40972495_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture07/pic4097/40972495_001.jpg",
+                    "updatedDate": "2025-11-18T05:07:32Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture07/pic4097/40972495_003.jpg",
+                    "updatedDate": "2025-11-18T05:07:32Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture07/pic4097/40972495_004.jpg",
+                    "updatedDate": "2025-11-18T05:07:32Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture07/pic4097/40972495_007.jpg",
+                    "updatedDate": "2025-11-18T05:07:32Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "520i 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202105,
+            "FormYear": "2021",
+            "Mileage": 56024,
+            "AdWords": "서라운드뷰,조수석메모리시트/특옵션/완전무사고/차량컨디션좋음",
+            "Hotmark": "09;13;14",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 4300,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-01-29 11:19:05.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "아이앤지 모터스",
+            "DealerName": "하성철"
+        },
+        {
+            "Id": "40824970",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection"
+            ],
+            "Photo": "/carpicture02/pic4082/40823710_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4082/40823710_001.jpg",
+                    "updatedDate": "2025-10-28T01:19:33Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4082/40823710_003.jpg",
+                    "updatedDate": "2025-10-28T01:19:33Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4082/40823710_004.jpg",
+                    "updatedDate": "2025-10-28T01:19:33Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4082/40823710_007.jpg",
+                    "updatedDate": "2025-10-28T01:19:33Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "523d 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202303,
+            "FormYear": "2023",
+            "Mileage": 29348,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 4690,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-01-29 11:19:04.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "제이에이치 플러스",
+            "DealerName": "김주현"
+        },
+        {
+            "Id": "40909595",
+            "Separation": [],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Record"
+            ],
+            "Photo": "/carpicture10/pic4090/40909595_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture10/pic4090/40909595_001.jpg",
+                    "updatedDate": "2025-11-07T03:00:40Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture10/pic4090/40909595_003.jpg",
+                    "updatedDate": "2025-11-07T03:00:40Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture10/pic4090/40909595_004.jpg",
+                    "updatedDate": "2025-11-07T03:00:40Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture10/pic4090/40909595_007.jpg",
+                    "updatedDate": "2025-11-07T03:00:40Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G60)",
+            "Badge": "520i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202511,
+            "FormYear": "2026",
+            "Mileage": 150,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 6950,
+            "Lease": "1",
+            "SellType": "리스",
+            "BuyType": [],
+            "LeaseType": "운용리스",
+            "AcceptanceCharge": 0,
+            "MonthLeasePrice": 83,
+            "MonthLeaseRest": 58,
+            "MonthLeaseTotal": 61,
+            "Deposit": 0,
+            "ResidualValue": 4063,
+            "Succession": 300,
+            "ModifiedDate": "2026-01-29 11:19:04.000 +09",
+            "OfficeCityState": "충남",
+            "DealerName": "전송수"
+        },
+        {
+            "Id": "40934717",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture02/pic4092/40921219_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4092/40921219_001.jpg",
+                    "updatedDate": "2025-12-16T07:58:31Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4092/40921219_003.jpg",
+                    "updatedDate": "2025-12-16T07:58:31Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4092/40921219_004.jpg",
+                    "updatedDate": "2025-12-16T07:58:31Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4092/40921219_007.jpg",
+                    "updatedDate": "2025-12-16T07:58:31Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "530i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202210,
+            "FormYear": "2023",
+            "Mileage": 40317,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 5070,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-01-29 11:19:03.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)올카",
+            "DealerName": "이강국"
+        },
+        {
+            "Id": "41368604",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4136/41368604_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4136/41368604_001.jpg",
+                    "updatedDate": "2026-01-20T07:54:13Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4136/41368604_003.jpg",
+                    "updatedDate": "2026-01-20T07:54:13Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4136/41368604_004.jpg",
+                    "updatedDate": "2026-01-20T07:54:13Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4136/41368604_007.jpg",
+                    "updatedDate": "2026-01-20T07:54:13Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "520d xDrive M 스포츠 플러스",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201804,
+            "FormYear": "2018",
+            "Mileage": 73578,
+            "AdWords": "1년연장보증! 100%완무,무교환,무칠,미친병적관리,미세누유X,키3",
+            "Hotmark": "09;19;24",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 3370,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-01-29 11:19:03.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "브라더오토모빌",
+            "DealerName": "김정환"
+        },
+        {
+            "Id": "41174110",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture07/pic4117/41174110_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture07/pic4117/41174110_001.jpg",
+                    "updatedDate": "2025-12-17T05:09:54Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture07/pic4117/41174110_003.jpg",
+                    "updatedDate": "2025-12-17T05:09:54Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture07/pic4117/41174110_004.jpg",
+                    "updatedDate": "2025-12-17T05:09:54Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture07/pic4117/41174110_007.jpg",
+                    "updatedDate": "2025-12-17T05:09:54Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "520i 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201911,
+            "FormYear": "2020",
+            "Mileage": 69509,
+            "AdWords": "완전무사고(보험이력X)/실내외깨끗/타이어양호/누유X/컨디션굿",
+            "Hotmark": "12;13;24",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 3180,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-01-29 11:19:03.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "아이앤지 모터스",
+            "DealerName": "하성철"
+        },
+        {
+            "Id": "41414521",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record"
+            ],
+            "Photo": "/carpicture01/pic4141/41413870_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture01/pic4141/41413870_001.jpg",
+                    "updatedDate": "2026-01-27T02:14:41Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture01/pic4141/41413870_003.jpg",
+                    "updatedDate": "2026-01-27T02:14:41Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture01/pic4141/41413870_004.jpg",
+                    "updatedDate": "2026-01-27T02:14:41Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture01/pic4141/41413870_007.jpg",
+                    "updatedDate": "2026-01-27T02:14:41Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "523d 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202012,
+            "FormYear": "2021",
+            "Mileage": 90589,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 3489,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-01-29 11:18:47.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "주식회사 왓카",
+            "DealerName": "윤현미"
+        },
+        {
+            "Id": "40823710",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection"
+            ],
+            "Photo": "/carpicture02/pic4082/40823710_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4082/40823710_001.jpg",
+                    "updatedDate": "2025-10-28T01:19:33Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4082/40823710_003.jpg",
+                    "updatedDate": "2025-10-28T01:19:33Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4082/40823710_004.jpg",
+                    "updatedDate": "2025-10-28T01:19:33Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4082/40823710_007.jpg",
+                    "updatedDate": "2025-10-28T01:19:33Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "523d 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202303,
+            "FormYear": "2023",
+            "Mileage": 29348,
+            "AdWords": "완전 무사고(NO PAINT)#신차 A/S 적용!!#탁송거래및대차가능",
+            "Hotmark": "10;12;26",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 4690,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-01-29 11:18:04.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "제이에이치 플러스",
+            "DealerName": "김주현"
+        },
+        {
+            "Id": "41124632",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture01/pic4111/41112660_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture01/pic4111/41112660_001.jpg",
+                    "updatedDate": "2025-12-08T02:29:09Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture01/pic4111/41112660_003.jpg",
+                    "updatedDate": "2025-12-08T02:29:09Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture01/pic4111/41112660_004.jpg",
+                    "updatedDate": "2025-12-08T02:29:09Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture01/pic4111/41112660_007.jpg",
+                    "updatedDate": "2025-12-08T02:29:09Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "530e 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "가솔린+전기",
+            "Year": 202106,
+            "FormYear": "2021",
+            "Mileage": 58073,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 4020,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-01-29 11:18:04.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "JJ모터스",
+            "DealerName": "조태웅"
+        },
+        {
+            "Id": "41106543",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture10/pic4110/41106543_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture10/pic4110/41106543_001.jpg",
+                    "updatedDate": "2025-12-04T07:18:08Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture10/pic4110/41106543_003.jpg",
+                    "updatedDate": "2025-12-04T07:18:08Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture10/pic4110/41106543_004.jpg",
+                    "updatedDate": "2025-12-04T07:18:08Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture10/pic4110/41106543_007.jpg",
+                    "updatedDate": "2025-12-04T07:18:08Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "530i xDrive 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202011,
+            "FormYear": "2021",
+            "Mileage": 73798,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 3750,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-01-29 11:18:04.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "우리자동차상사",
+            "DealerName": "김성현"
+        },
+        {
+            "Id": "40921219",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture02/pic4092/40921219_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4092/40921219_001.jpg",
+                    "updatedDate": "2025-12-16T07:58:31Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4092/40921219_003.jpg",
+                    "updatedDate": "2025-12-16T07:58:31Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4092/40921219_004.jpg",
+                    "updatedDate": "2025-12-16T07:58:31Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4092/40921219_007.jpg",
+                    "updatedDate": "2025-12-16T07:58:31Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "530i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202210,
+            "FormYear": "2023",
+            "Mileage": 40317,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 5070,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-01-29 11:18:03.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)올카",
+            "DealerName": "이강국"
+        },
+        {
+            "Id": "40642790",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection"
+            ],
+            "Photo": "/carpicture04/pic4064/40642790_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture04/pic4064/40642790_001.jpg",
+                    "updatedDate": "2025-09-30T01:51:13Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture04/pic4064/40642790_003.jpg",
+                    "updatedDate": "2025-09-30T01:51:13Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture04/pic4064/40642790_004.jpg",
+                    "updatedDate": "2025-09-30T01:51:13Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture04/pic4064/40642790_007.jpg",
+                    "updatedDate": "2025-09-30T01:51:13Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "5시리즈 (G30)",
+            "Badge": "520i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202305,
+            "FormYear": "2023",
+            "Mileage": 51198,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 4750,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-01-29 11:18:03.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "당근카",
+            "DealerName": "김종현"
+        }
+    ]
+}

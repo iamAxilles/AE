@@ -1,0 +1,128 @@
+body{
+    background-color: aliceblue;
+      color: #111111;
+  --effect-scale: 1.1;
+}
+
+.shadow{
+    box-shadow: 1pc 5px 50px #141414, 0 5px 6px #0b0a0a;
+}
+
+.gyeongju{ 
+    font-size: 1.3rem;
+    font-family: copperplate;
+}
+
+.dongdae-ro{
+    font-family: courier new;
+}
+
+.initial-font{
+    font-family: initial;
+}
+
+.custom-expanded2{
+    left: 4pc;
+}
+
+.ground{
+    background: #EEF2FF;
+}
+
+.ground2{
+    background: #1D293D;
+    color: #ffffff;
+}
+
+.textcenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@font-face{
+      font-family: 'Oswald2'; 
+    src: url('css/font/Oswald2.woff2') format('woff2');
+    }
+/*nicepage:18616*/
+
+.u-container-layout{
+    top: -8pc;
+    left: -11pc;
+    position: relative;
+    font-family: Oswald;
+    margin-right: -100px;
+}
+
+/*@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    .u-container-layout{
+        top: -14pc;
+        left: -4pc;
+    }
+}*/
+
+@media only screen and (orientation: landscape) and (min-device-width: 810px) and (max-device-width: 1080px){ 
+     .u-container-layout{
+        /*height: 21vh;*/
+         left: -4pc;
+         display: flex;
+         align-items: center;
+        transform: translate(0, -50%)
+    }}
+
+@media only screen and (orientation: landscape) and (min-device-width: 810px) and (max-device-width: 1080px){
+.navigator-ipad{
+    padding-left: 100px;
+  padding-right: 100px;
+    }
+}
+
+
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+    .u-container-layout{
+        top: -6pc;
+        left: -7vw;
+        display: flex;
+        align-items: center;
+        transform: translate(0, -50%)
+    }
+}
+
+@media only screen and (max-device-width : 667px) and (max-device-width : 375px) { 
+    .u-container-layout{
+        /*top: ;*/
+        left: -7vw;
+        display: flex;
+        align-items: center;
+        transform: translate(0, -40%)
+    }
+}
+
+@media only screen and (orientation: portrait) and (min-device-width : 375px) and (max-device-width : 667px) {
+    .u-section-1{
+        height: 20vh;
+        background-position-y: 0%;
+        background-size: 120%;
+    }
+}
+@media only screen and (orientation: landscape) and (max-device-width: 375px) { 
+    .u-section-1{
+        height: 27pc;
+        background-position-y: 0%;
+        background-size: 120%;
+        }
+}
+
+
+@media only screen and (orientation: portrait) and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) { 
+     .u-section-1{
+        height: 20vh;
+        background-position-y: 0%;
+        background-size: 130%;
+    }}
+
+/*@media only screen and (min-width: 300px) {
+.u-section-1{
+         height: 20vh;
+    }
+}*/

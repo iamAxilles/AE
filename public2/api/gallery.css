@@ -1,0 +1,109 @@
+
+/*https://codepen.io/radNoise/pen/bGazVgx*/
+
+/* = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = gallery
+
+/** {
+  box-sizing: border-box;
+  background-color: grey;
+}*/
+
+.container { 
+/*  position: relative;*/
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+
+  border-top: 50px solid #000000;
+  border-bottom: 50px solid #000000;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+/*  cursor: pointer;*/
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+
+  position: absolute;
+/*  top: 40%;*/
+  width: auto;
+/*  padding: 16px;*/
+/*  margin-top: -50px;*/
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+
+  top: 300;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  color: skyblue;
+}
+
+
+/* Container for image text */
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Six columns side by side */
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+.scroll-container {
+  background-color: black;
+ 
+  overflow: auto;
+  white-space: nowrap;
+  padding-top: 10px;
+/*  height: 170;*/
+  width: 1000;
+
+  position: absolute;
+
+  top: 650;
+
+}
+
+div.scroll-container img {
+  padding: 10px;
+  height: 150px;
+}

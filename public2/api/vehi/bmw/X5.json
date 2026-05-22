@@ -1,0 +1,3043 @@
+{
+    "Count": 269,
+    "SearchResults": [
+        {
+            "Id": "40805130",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture08/pic4078/40788385_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture08/pic4078/40788385_001.jpg",
+                    "updatedDate": "2025-10-24T06:38:45Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture08/pic4078/40788385_003.jpg",
+                    "updatedDate": "2025-10-24T06:38:45Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture08/pic4078/40788385_004.jpg",
+                    "updatedDate": "2025-10-24T06:38:45Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture08/pic4078/40788385_007.jpg",
+                    "updatedDate": "2025-10-24T06:38:45Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202401,
+            "FormYear": "2024",
+            "Mileage": 21363,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 10640,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-03 08:41:58.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "마이카",
+            "DealerName": "오세진"
+        },
+        {
+            "Id": "40901018",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture08/pic4088/40888064_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture08/pic4088/40888064_001.jpg",
+                    "updatedDate": "2025-11-06T02:28:13Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture08/pic4088/40888064_003.jpg",
+                    "updatedDate": "2025-11-06T02:28:13Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture08/pic4088/40888064_004.jpg",
+                    "updatedDate": "2025-11-06T02:28:13Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture08/pic4088/40888064_007.jpg",
+                    "updatedDate": "2025-11-06T02:28:13Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d xLine",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202402,
+            "FormYear": "2024",
+            "Mileage": 21036,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 2222,
+            "SalesStatus": "CONTRACT",
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-03 08:41:58.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "마이카",
+            "DealerName": "오세진"
+        },
+        {
+            "Id": "40788385",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture08/pic4078/40788385_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture08/pic4078/40788385_001.jpg",
+                    "updatedDate": "2025-10-24T06:38:45Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture08/pic4078/40788385_003.jpg",
+                    "updatedDate": "2025-10-24T06:38:45Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture08/pic4078/40788385_004.jpg",
+                    "updatedDate": "2025-10-24T06:38:45Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture08/pic4078/40788385_007.jpg",
+                    "updatedDate": "2025-10-24T06:38:45Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202401,
+            "FormYear": "2024",
+            "Mileage": 21363,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 10640,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 08:40:58.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "마이카",
+            "DealerName": "오세진"
+        },
+        {
+            "Id": "40888064",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture08/pic4088/40888064_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture08/pic4088/40888064_001.jpg",
+                    "updatedDate": "2025-11-06T02:28:13Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture08/pic4088/40888064_003.jpg",
+                    "updatedDate": "2025-11-06T02:28:13Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture08/pic4088/40888064_004.jpg",
+                    "updatedDate": "2025-11-06T02:28:13Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture08/pic4088/40888064_007.jpg",
+                    "updatedDate": "2025-11-06T02:28:13Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d xLine",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202402,
+            "FormYear": "2024",
+            "Mileage": 21036,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 2222,
+            "SalesStatus": "CONTRACT",
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 08:40:58.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "마이카",
+            "DealerName": "오세진"
+        },
+        {
+            "Id": "41439441",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture02/pic4142/41429563_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4142/41429563_001.jpg",
+                    "updatedDate": "2026-02-01T06:01:57Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4142/41429563_003.jpg",
+                    "updatedDate": "2026-02-01T06:01:57Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4142/41429563_004.jpg",
+                    "updatedDate": "2026-02-01T06:01:57Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4142/41429563_007.jpg",
+                    "updatedDate": "2026-02-01T06:01:57Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202403,
+            "FormYear": "2024",
+            "Mileage": 57391,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 9390,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-03 08:33:11.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)부산대박중고차",
+            "DealerName": "박민호"
+        },
+        {
+            "Id": "41429563",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture02/pic4142/41429563_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4142/41429563_001.jpg",
+                    "updatedDate": "2026-02-01T06:01:57Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4142/41429563_003.jpg",
+                    "updatedDate": "2026-02-01T06:01:57Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4142/41429563_004.jpg",
+                    "updatedDate": "2026-02-01T06:01:57Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4142/41429563_007.jpg",
+                    "updatedDate": "2026-02-01T06:01:57Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202403,
+            "FormYear": "2024",
+            "Mileage": 57391,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 9390,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 08:32:11.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)부산대박중고차",
+            "DealerName": "박민호"
+        },
+        {
+            "Id": "41346964",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture04/pic4134/41346964_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture04/pic4134/41346964_001.jpg",
+                    "updatedDate": "2026-01-15T01:02:20Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture04/pic4134/41346964_003.jpg",
+                    "updatedDate": "2026-01-15T01:02:20Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture04/pic4134/41346964_004.jpg",
+                    "updatedDate": "2026-01-15T01:02:20Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture04/pic4134/41346964_007.jpg",
+                    "updatedDate": "2026-01-15T01:02:20Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (F15)",
+            "Badge": "xDrive M50d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201812,
+            "FormYear": "2018",
+            "Mileage": 158097,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 3455,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 08:30:06.000 +09",
+            "OfficeCityState": "경북",
+            "OfficeName": "대우종합자동차상사",
+            "DealerName": "윤도원"
+        },
+        {
+            "Id": "41247795",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic4123/41231938_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4123/41231938_001.jpg",
+                    "updatedDate": "2025-12-29T07:29:23Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4123/41231938_003.jpg",
+                    "updatedDate": "2025-12-29T07:29:23Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4123/41231938_004.jpg",
+                    "updatedDate": "2025-12-29T07:29:23Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4123/41231938_007.jpg",
+                    "updatedDate": "2025-12-29T07:29:23Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d xLine",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202201,
+            "FormYear": "2022",
+            "Mileage": 79036,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 6750,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-03 08:15:43.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)베스트카",
+            "DealerName": "이주완"
+        },
+        {
+            "Id": "41231938",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic4123/41231938_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4123/41231938_001.jpg",
+                    "updatedDate": "2025-12-29T07:29:23Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4123/41231938_003.jpg",
+                    "updatedDate": "2025-12-29T07:29:23Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4123/41231938_004.jpg",
+                    "updatedDate": "2025-12-29T07:29:23Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4123/41231938_007.jpg",
+                    "updatedDate": "2025-12-29T07:29:23Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d xLine",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202201,
+            "FormYear": "2022",
+            "Mileage": 79036,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 6750,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 08:14:43.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)베스트카",
+            "DealerName": "이주완"
+        },
+        {
+            "Id": "41069092",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4106/41065512_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4106/41065512_001.jpg",
+                    "updatedDate": "2025-12-29T02:00:46Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4106/41065512_003.jpg",
+                    "updatedDate": "2025-12-29T02:00:46Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4106/41065512_004.jpg",
+                    "updatedDate": "2025-12-29T02:00:46Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4106/41065512_007.jpg",
+                    "updatedDate": "2025-12-29T02:00:46Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202211,
+            "FormYear": "2022",
+            "Mileage": 58505,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 7750,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-03 08:05:55.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "시원모터스",
+            "DealerName": "박홍근"
+        },
+        {
+            "Id": "41065512",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4106/41065512_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4106/41065512_001.jpg",
+                    "updatedDate": "2025-12-29T02:00:46Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4106/41065512_003.jpg",
+                    "updatedDate": "2025-12-29T02:00:46Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4106/41065512_004.jpg",
+                    "updatedDate": "2025-12-29T02:00:46Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4106/41065512_007.jpg",
+                    "updatedDate": "2025-12-29T02:00:46Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202211,
+            "FormYear": "2022",
+            "Mileage": 58505,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 7750,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 08:04:55.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "시원모터스",
+            "DealerName": "박홍근"
+        },
+        {
+            "Id": "41300474",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture09/pic4129/41294917_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture09/pic4129/41294917_001.jpg",
+                    "updatedDate": "2026-01-07T08:10:36Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture09/pic4129/41294917_003.jpg",
+                    "updatedDate": "2026-01-07T08:10:36Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture09/pic4129/41294917_004.jpg",
+                    "updatedDate": "2026-01-07T08:10:36Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture09/pic4129/41294917_007.jpg",
+                    "updatedDate": "2026-01-07T08:10:36Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d xLine",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201907,
+            "FormYear": "2019",
+            "Mileage": 69754,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 5800,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-03 08:04:18.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "빵빵카",
+            "DealerName": "김시우"
+        },
+        {
+            "Id": "41294917",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture09/pic4129/41294917_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture09/pic4129/41294917_001.jpg",
+                    "updatedDate": "2026-01-07T08:10:36Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture09/pic4129/41294917_003.jpg",
+                    "updatedDate": "2026-01-07T08:10:36Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture09/pic4129/41294917_004.jpg",
+                    "updatedDate": "2026-01-07T08:10:36Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture09/pic4129/41294917_007.jpg",
+                    "updatedDate": "2026-01-07T08:10:36Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d xLine",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201907,
+            "FormYear": "2019",
+            "Mileage": 69754,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 5800,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 08:03:18.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "빵빵카",
+            "DealerName": "김시우"
+        },
+        {
+            "Id": "39778067",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture07/pic3977/39778067_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture07/pic3977/39778067_001.jpg",
+                    "updatedDate": "2025-06-04T00:37:27Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture07/pic3977/39778067_003.jpg",
+                    "updatedDate": "2025-06-04T00:37:27Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture07/pic3977/39778067_004.jpg",
+                    "updatedDate": "2025-06-04T00:37:27Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture07/pic3977/39778067_007.jpg",
+                    "updatedDate": "2025-06-04T00:37:27Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "M50i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202105,
+            "FormYear": "2021",
+            "Mileage": 122633,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 5900,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 08:02:29.000 +09",
+            "OfficeCityState": "전북",
+            "OfficeName": "SK모터스",
+            "DealerName": "양성관"
+        },
+        {
+            "Id": "41273240",
+            "Separation": [],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Record"
+            ],
+            "Photo": "/carpicture07/pic4127/41273240_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture07/pic4127/41273240_001.JPG",
+                    "updatedDate": "2026-01-02T12:22:10Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture07/pic4127/41273240_003.JPG",
+                    "updatedDate": "2026-01-02T12:22:10Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture07/pic4127/41273240_004.JPG",
+                    "updatedDate": "2026-01-02T12:22:10Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture07/pic4127/41273240_007.JPG",
+                    "updatedDate": "2026-01-02T12:22:10Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (E70)",
+            "Badge": "xDrive 30d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 200906,
+            "FormYear": "2009",
+            "Mileage": 260000,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 700,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 07:51:54.000 +09",
+            "OfficeCityState": "경남",
+            "DealerName": "이삼두"
+        },
+        {
+            "Id": "41335543",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic4133/41335543_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4133/41335543_001.jpg",
+                    "updatedDate": "2026-01-13T08:08:30Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4133/41335543_003.jpg",
+                    "updatedDate": "2026-01-13T08:08:30Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4133/41335543_004.jpg",
+                    "updatedDate": "2026-01-13T08:08:30Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4133/41335543_007.jpg",
+                    "updatedDate": "2026-01-13T08:08:30Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (F15)",
+            "Badge": "xDrive 30d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201702,
+            "FormYear": "2017",
+            "Mileage": 138918,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 2790,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 07:36:02.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "더좋은자동차",
+            "DealerName": "허문기"
+        },
+        {
+            "Id": "40366079",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture06/pic4036/40366079_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4036/40366079_001.jpg",
+                    "updatedDate": "2025-08-26T04:35:28Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4036/40366079_003.jpg",
+                    "updatedDate": "2025-08-26T04:35:28Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4036/40366079_004.jpg",
+                    "updatedDate": "2025-08-26T04:35:28Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4036/40366079_007.jpg",
+                    "updatedDate": "2025-08-26T04:35:28Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (E70)",
+            "Badge": "xDrive 50i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201103,
+            "FormYear": "2011",
+            "Mileage": 125901,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 1400,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 07:17:02.000 +09",
+            "OfficeCityState": "경남",
+            "OfficeName": "슈퍼모터스",
+            "DealerName": "김열희"
+        },
+        {
+            "Id": "41400539",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture10/pic4140/41400539_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture10/pic4140/41400539_001.jpg",
+                    "updatedDate": "2026-01-23T06:13:40Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture10/pic4140/41400539_003.jpg",
+                    "updatedDate": "2026-01-23T06:13:40Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture10/pic4140/41400539_004.jpg",
+                    "updatedDate": "2026-01-23T06:13:40Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture10/pic4140/41400539_007.jpg",
+                    "updatedDate": "2026-01-23T06:13:40Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (E70)",
+            "Badge": "xDrive 30si",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 200812,
+            "FormYear": "2008",
+            "Mileage": 283300,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 420,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 06:40:51.000 +09",
+            "OfficeCityState": "대전",
+            "OfficeName": "(주)송도모터스",
+            "DealerName": "도종선"
+        },
+        {
+            "Id": "41264029",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4126/41264029_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4126/41264029_001.jpg",
+                    "updatedDate": "2025-12-31T16:51:57Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4126/41264029_003.jpg",
+                    "updatedDate": "2025-12-31T16:51:57Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4126/41264029_004.jpg",
+                    "updatedDate": "2025-12-31T16:51:57Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4126/41264029_007.jpg",
+                    "updatedDate": "2025-12-31T16:51:57Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (E53)",
+            "Badge": "4.4i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 200511,
+            "FormYear": "2005",
+            "Mileage": 270000,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 690,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 06:14:17.000 +09",
+            "OfficeCityState": "대전",
+            "OfficeName": "(주) 대진상사",
+            "DealerName": "박재영"
+        },
+        {
+            "Id": "41371219",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture07/pic4137/41371219_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture07/pic4137/41371219_001.jpg",
+                    "updatedDate": "2026-01-19T06:49:41Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture07/pic4137/41371219_003.jpg",
+                    "updatedDate": "2026-01-19T06:49:41Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture07/pic4137/41371219_004.jpg",
+                    "updatedDate": "2026-01-19T06:49:41Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture07/pic4137/41371219_007.jpg",
+                    "updatedDate": "2026-01-19T06:49:41Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (F15)",
+            "Badge": "xDrive 30d M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201612,
+            "FormYear": "2016",
+            "Mileage": 126000,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 3150,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 05:52:11.000 +09",
+            "OfficeCityState": "충북",
+            "OfficeName": "탑모터스",
+            "DealerName": "임경묵"
+        },
+        {
+            "Id": "41268512",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4126/41262842_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4126/41262842_001.jpg",
+                    "updatedDate": "2026-01-05T05:29:08Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4126/41262842_003.jpg",
+                    "updatedDate": "2026-01-05T05:29:08Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4126/41262842_004.jpg",
+                    "updatedDate": "2026-01-05T05:29:08Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4126/41262842_007.jpg",
+                    "updatedDate": "2026-01-05T05:29:08Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202502,
+            "FormYear": "2025",
+            "Mileage": 8104,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 14370,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-03 03:08:02.000 +09",
+            "OfficeCityState": "전북",
+            "OfficeName": "차차",
+            "DealerName": "류지훈"
+        },
+        {
+            "Id": "41262842",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4126/41262842_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4126/41262842_001.jpg",
+                    "updatedDate": "2026-01-05T05:29:08Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4126/41262842_003.jpg",
+                    "updatedDate": "2026-01-05T05:29:08Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4126/41262842_004.jpg",
+                    "updatedDate": "2026-01-05T05:29:08Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4126/41262842_007.jpg",
+                    "updatedDate": "2026-01-05T05:29:08Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202502,
+            "FormYear": "2025",
+            "Mileage": 8104,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 14370,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 03:07:02.000 +09",
+            "OfficeCityState": "전북",
+            "OfficeName": "차차",
+            "DealerName": "류지훈"
+        },
+        {
+            "Id": "40966348",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record"
+            ],
+            "Photo": "/carpicture06/pic4096/40963344_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4096/40963344_001.jpg",
+                    "updatedDate": "2025-11-14T04:43:49Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4096/40963344_003.jpg",
+                    "updatedDate": "2025-11-14T04:43:49Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4096/40963344_004.jpg",
+                    "updatedDate": "2025-11-14T04:43:49Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4096/40963344_007.jpg",
+                    "updatedDate": "2025-11-14T04:43:49Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40d M 스포츠 온라인 익스클루시브 에디션",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202301,
+            "FormYear": "2023",
+            "Mileage": 45603,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 12500,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-03 02:06:40.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)하이엔드모터스",
+            "DealerName": "정호인"
+        },
+        {
+            "Id": "40942631",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture02/pic4092/40929894_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4092/40929894_001.jpg",
+                    "updatedDate": "2025-11-12T01:31:51Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4092/40929894_003.jpg",
+                    "updatedDate": "2025-11-12T01:31:51Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4092/40929894_004.jpg",
+                    "updatedDate": "2025-11-12T01:31:51Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4092/40929894_007.jpg",
+                    "updatedDate": "2025-11-12T01:31:51Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i xLine",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202302,
+            "FormYear": "2023",
+            "Mileage": 15489,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 11000,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-03 02:06:40.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)하이엔드모터스",
+            "DealerName": "정호인"
+        },
+        {
+            "Id": "40929894",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture02/pic4092/40929894_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4092/40929894_001.jpg",
+                    "updatedDate": "2025-11-12T01:31:51Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4092/40929894_003.jpg",
+                    "updatedDate": "2025-11-12T01:31:51Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4092/40929894_004.jpg",
+                    "updatedDate": "2025-11-12T01:31:51Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4092/40929894_007.jpg",
+                    "updatedDate": "2025-11-12T01:31:51Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i xLine",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202302,
+            "FormYear": "2023",
+            "Mileage": 15489,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 11000,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 02:05:40.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)하이엔드모터스",
+            "DealerName": "정호인"
+        },
+        {
+            "Id": "40963344",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record"
+            ],
+            "Photo": "/carpicture06/pic4096/40963344_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4096/40963344_001.jpg",
+                    "updatedDate": "2025-11-14T04:43:49Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4096/40963344_003.jpg",
+                    "updatedDate": "2025-11-14T04:43:49Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4096/40963344_004.jpg",
+                    "updatedDate": "2025-11-14T04:43:49Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4096/40963344_007.jpg",
+                    "updatedDate": "2025-11-14T04:43:49Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40d M 스포츠 온라인 익스클루시브 에디션",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202301,
+            "FormYear": "2023",
+            "Mileage": 45603,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 12500,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 02:05:40.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)하이엔드모터스",
+            "DealerName": "정호인"
+        },
+        {
+            "Id": "41193746",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture09/pic4119/41193746_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture09/pic4119/41193746_001.jpg",
+                    "updatedDate": "2025-12-19T02:00:39Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture09/pic4119/41193746_003.jpg",
+                    "updatedDate": "2025-12-19T02:00:39Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture09/pic4119/41193746_004.jpg",
+                    "updatedDate": "2025-12-19T02:00:39Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture09/pic4119/41193746_007.jpg",
+                    "updatedDate": "2025-12-19T02:00:39Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d xLine",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202206,
+            "FormYear": "2022",
+            "Mileage": 24658,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 8180,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 01:31:02.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "조조모터스",
+            "DealerName": "조보근"
+        },
+        {
+            "Id": "38418605",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture01/pic3841/38418605_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture01/pic3841/38418605_001.jpg",
+                    "updatedDate": "2024-10-28T05:17:04Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture01/pic3841/38418605_003.jpg",
+                    "updatedDate": "2024-10-28T05:17:04Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture01/pic3841/38418605_004.jpg",
+                    "updatedDate": "2024-10-28T05:17:04Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture01/pic3841/38418605_007.jpg",
+                    "updatedDate": "2024-10-28T05:17:04Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202303,
+            "FormYear": "2023",
+            "Mileage": 25897,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 9900,
+            "Lease": "1",
+            "SellType": "리스",
+            "BuyType": [],
+            "LeaseType": "운용리스",
+            "AcceptanceCharge": 3100,
+            "MonthLeasePrice": 139,
+            "MonthLeaseRest": 26,
+            "MonthLeaseTotal": 60,
+            "Deposit": 2500,
+            "ResidualValue": 5019,
+            "Succession": 0,
+            "ModifiedDate": "2026-02-03 00:39:22.000 +09",
+            "OfficeCityState": "강원",
+            "OfficeName": "H모터스",
+            "DealerName": "이호준"
+        },
+        {
+            "Id": "40894031",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture08/pic4088/40883566_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture08/pic4088/40883566_001.jpg",
+                    "updatedDate": "2025-11-05T06:07:52Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture08/pic4088/40883566_003.jpg",
+                    "updatedDate": "2025-11-05T06:07:52Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture08/pic4088/40883566_004.jpg",
+                    "updatedDate": "2025-11-05T06:07:52Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture08/pic4088/40883566_007.jpg",
+                    "updatedDate": "2025-11-05T06:07:52Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202301,
+            "FormYear": "2023",
+            "Mileage": 14936,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 11990,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-03 00:37:43.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "더마니카동부산점",
+            "DealerName": "장태혁"
+        },
+        {
+            "Id": "40883566",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture08/pic4088/40883566_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture08/pic4088/40883566_001.jpg",
+                    "updatedDate": "2025-11-05T06:07:52Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture08/pic4088/40883566_003.jpg",
+                    "updatedDate": "2025-11-05T06:07:52Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture08/pic4088/40883566_004.jpg",
+                    "updatedDate": "2025-11-05T06:07:52Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture08/pic4088/40883566_007.jpg",
+                    "updatedDate": "2025-11-05T06:07:52Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202301,
+            "FormYear": "2023",
+            "Mileage": 14936,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 11990,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 00:36:43.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "더마니카동부산점",
+            "DealerName": "장태혁"
+        },
+        {
+            "Id": "41437879",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record"
+            ],
+            "Photo": "/carpicture03/pic4143/41437048_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4143/41437048_001.jpg",
+                    "updatedDate": "2026-01-30T05:26:24Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4143/41437048_003.jpg",
+                    "updatedDate": "2026-01-30T05:26:24Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4143/41437048_004.jpg",
+                    "updatedDate": "2026-01-30T05:26:24Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4143/41437048_007.jpg",
+                    "updatedDate": "2026-01-30T05:26:24Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202201,
+            "FormYear": "2022",
+            "Mileage": 100891,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 6990,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-03 00:16:56.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)아라모터스",
+            "DealerName": "이기철"
+        },
+        {
+            "Id": "41437048",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record"
+            ],
+            "Photo": "/carpicture03/pic4143/41437048_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4143/41437048_001.jpg",
+                    "updatedDate": "2026-01-30T05:26:24Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4143/41437048_003.jpg",
+                    "updatedDate": "2026-01-30T05:26:24Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4143/41437048_004.jpg",
+                    "updatedDate": "2026-01-30T05:26:24Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4143/41437048_007.jpg",
+                    "updatedDate": "2026-01-30T05:26:24Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202201,
+            "FormYear": "2022",
+            "Mileage": 100891,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 6990,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 00:15:56.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)아라모터스",
+            "DealerName": "이기철"
+        },
+        {
+            "Id": "41447184",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture04/pic4144/41443212_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture04/pic4144/41443212_001.jpg",
+                    "updatedDate": "2026-02-02T05:01:18Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture04/pic4144/41443212_003.jpg",
+                    "updatedDate": "2026-02-02T05:01:18Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture04/pic4144/41443212_004.jpg",
+                    "updatedDate": "2026-02-02T05:01:18Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture04/pic4144/41443212_007.jpg",
+                    "updatedDate": "2026-02-02T05:01:18Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202203,
+            "FormYear": "2022",
+            "Mileage": 138332,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 6790,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-03 00:12:37.000 +09",
+            "OfficeCityState": "전북",
+            "OfficeName": "행운모터스",
+            "DealerName": "이승훈"
+        },
+        {
+            "Id": "41209313",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture10/pic4120/41209313_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture10/pic4120/41209313_001.jpg",
+                    "updatedDate": "2025-12-23T02:26:59Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture10/pic4120/41209313_003.jpg",
+                    "updatedDate": "2025-12-23T02:26:59Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture10/pic4120/41209313_004.jpg",
+                    "updatedDate": "2025-12-23T02:26:59Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture10/pic4120/41209313_007.jpg",
+                    "updatedDate": "2025-12-23T02:26:59Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "M50i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202201,
+            "FormYear": "2022",
+            "Mileage": 140309,
+            "AdWords": "#1인신조 #무보험이력 #무도색 #키3 #누유X #장거리운행 #고성능",
+            "Hotmark": "10;24;27",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 5890,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 00:12:02.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "카피디",
+            "DealerName": "김민수"
+        },
+        {
+            "Id": "41443212",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture04/pic4144/41443212_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture04/pic4144/41443212_001.jpg",
+                    "updatedDate": "2026-02-02T05:01:18Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture04/pic4144/41443212_003.jpg",
+                    "updatedDate": "2026-02-02T05:01:18Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture04/pic4144/41443212_004.jpg",
+                    "updatedDate": "2026-02-02T05:01:18Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture04/pic4144/41443212_007.jpg",
+                    "updatedDate": "2026-02-02T05:01:18Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202203,
+            "FormYear": "2022",
+            "Mileage": 138332,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 6790,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 00:11:37.000 +09",
+            "OfficeCityState": "전북",
+            "OfficeName": "행운모터스",
+            "DealerName": "이승훈"
+        },
+        {
+            "Id": "41388423",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection"
+            ],
+            "Photo": "/carpicture08/pic4138/41388423_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture08/pic4138/41388423_001.jpg",
+                    "updatedDate": "2026-01-21T11:07:52Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture08/pic4138/41388423_003.jpg",
+                    "updatedDate": "2026-01-21T11:07:52Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture08/pic4138/41388423_004.jpg",
+                    "updatedDate": "2026-01-21T11:07:52Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture08/pic4138/41388423_007.jpg",
+                    "updatedDate": "2026-01-21T11:07:52Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "M50i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202112,
+            "FormYear": "2021",
+            "Mileage": 3638,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 7499,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 00:08:46.000 +09",
+            "OfficeCityState": "경북",
+            "OfficeName": "(주)대박모터스",
+            "DealerName": "이도현"
+        },
+        {
+            "Id": "41123950",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture02/pic4112/41123950_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4112/41123950_001.jpg",
+                    "updatedDate": "2025-12-09T05:16:35Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4112/41123950_003.jpg",
+                    "updatedDate": "2025-12-09T05:16:35Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4112/41123950_004.jpg",
+                    "updatedDate": "2025-12-09T05:16:35Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4112/41123950_007.jpg",
+                    "updatedDate": "2025-12-09T05:16:35Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (E70)",
+            "Badge": "xDrive 30si",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 200809,
+            "FormYear": "2008",
+            "Mileage": 183426,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 750,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 00:01:16.000 +09",
+            "OfficeCityState": "전북",
+            "OfficeName": "NEW익산모터스",
+            "DealerName": "김윤환"
+        },
+        {
+            "Id": "41061055",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4106/41061055_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4106/41061055_001.jpg",
+                    "updatedDate": "2025-11-27T07:12:52Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4106/41061055_003.jpg",
+                    "updatedDate": "2025-11-27T07:12:52Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4106/41061055_004.jpg",
+                    "updatedDate": "2025-11-27T07:12:52Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4106/41061055_007.jpg",
+                    "updatedDate": "2025-11-27T07:12:52Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (E70)",
+            "Badge": "xDrive 30d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201105,
+            "FormYear": "2011",
+            "Mileage": 268750,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 790,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 00:01:16.000 +09",
+            "OfficeCityState": "전북",
+            "OfficeName": "NEW익산모터스",
+            "DealerName": "김윤환"
+        },
+        {
+            "Id": "41258449",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture05/pic4125/41258449_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture05/pic4125/41258449_001.jpg",
+                    "updatedDate": "2025-12-31T05:10:57Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture05/pic4125/41258449_003.jpg",
+                    "updatedDate": "2025-12-31T05:10:57Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture05/pic4125/41258449_004.jpg",
+                    "updatedDate": "2025-12-31T05:10:57Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture05/pic4125/41258449_007.jpg",
+                    "updatedDate": "2025-12-31T05:10:57Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (E70)",
+            "Badge": "xDrive 30si",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 200806,
+            "FormYear": "2008",
+            "Mileage": 222882,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 690,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 00:01:16.000 +09",
+            "OfficeCityState": "전북",
+            "OfficeName": "NEW익산모터스",
+            "DealerName": "김윤환"
+        },
+        {
+            "Id": "40960462",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4096/40960462_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4096/40960462_001.jpg",
+                    "updatedDate": "2025-11-14T01:41:03Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4096/40960462_003.jpg",
+                    "updatedDate": "2025-11-14T01:41:03Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4096/40960462_004.jpg",
+                    "updatedDate": "2025-11-14T01:41:03Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4096/40960462_007.jpg",
+                    "updatedDate": "2025-11-14T01:41:03Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202408,
+            "FormYear": "2024",
+            "Mileage": 6901,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 12499,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-03 00:00:23.000 +09",
+            "OfficeCityState": "충북",
+            "OfficeName": "드림모터스",
+            "DealerName": "김민환"
+        },
+        {
+            "Id": "41280110",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4126/41269680_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4126/41269680_001.jpg",
+                    "updatedDate": "2026-01-05T04:54:19Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4126/41269680_003.jpg",
+                    "updatedDate": "2026-01-05T04:54:19Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4126/41269680_004.jpg",
+                    "updatedDate": "2026-01-05T04:54:19Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4126/41269680_007.jpg",
+                    "updatedDate": "2026-01-05T04:54:19Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202505,
+            "FormYear": "2025",
+            "Mileage": 11635,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 13800,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-02 23:57:03.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "유카",
+            "DealerName": "송노민"
+        },
+        {
+            "Id": "41269680",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4126/41269680_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4126/41269680_001.jpg",
+                    "updatedDate": "2026-01-05T04:54:19Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4126/41269680_003.jpg",
+                    "updatedDate": "2026-01-05T04:54:19Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4126/41269680_004.jpg",
+                    "updatedDate": "2026-01-05T04:54:19Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4126/41269680_007.jpg",
+                    "updatedDate": "2026-01-05T04:54:19Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 30d M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202505,
+            "FormYear": "2025",
+            "Mileage": 11635,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 13800,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-02 23:56:03.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "유카",
+            "DealerName": "송노민"
+        },
+        {
+            "Id": "41322866",
+            "Separation": [
+                "A"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture02/pic4132/41322866_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4132/41322866_001.jpg",
+                    "updatedDate": "2026-01-17T12:00:46Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4132/41322866_003.jpg",
+                    "updatedDate": "2026-01-17T12:00:46Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4132/41322866_004.jpg",
+                    "updatedDate": "2026-01-17T12:00:46Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4132/41322866_007.jpg",
+                    "updatedDate": "2026-01-17T12:00:46Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 45e M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린+전기",
+            "Year": 202202,
+            "FormYear": "2022",
+            "Mileage": 82540,
+            "AdWords": "평소 관리를 잘 한 차량입니다. 지금 바로 연락 주세요.",
+            "Hotmark": "13;14;15",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 7100,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-02 23:56:03.000 +09",
+            "OfficeCityState": "대구",
+            "DealerName": "김재훈"
+        },
+        {
+            "Id": "41384962",
+            "Separation": [
+                "B",
+                "F"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture08/pic4138/41384962_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture08/pic4138/41384962_001.jpg",
+                    "updatedDate": "2026-01-21T23:33:14Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture08/pic4138/41384962_003.jpg",
+                    "updatedDate": "2026-01-21T23:33:14Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture08/pic4138/41384962_004.jpg",
+                    "updatedDate": "2026-01-21T23:33:14Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture08/pic4138/41384962_007.jpg",
+                    "updatedDate": "2026-01-21T23:33:14Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 50e xLine",
+            "Transmission": "오토",
+            "FuelType": "가솔린+전기",
+            "Year": 202412,
+            "FormYear": "2025",
+            "Mileage": 10510,
+            "BrandAuthCmnt": "BMW가보증하는프리미엄중고차",
+            "AdWords": "엔카 실촬영",
+            "Hotmark": "14;15;13",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 9900,
+            "Lease": "2",
+            "SellType": "리스",
+            "BuyType": [],
+            "LeaseType": "금융리스",
+            "AcceptanceCharge": 2970,
+            "MonthLeasePrice": 146,
+            "MonthLeaseRest": 60,
+            "MonthLeaseTotal": 61,
+            "ResidualValue": 0,
+            "Succession": 0,
+            "ModifiedDate": "2026-02-02 23:56:03.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)동성모터스",
+            "DealerName": "(주)동성모터스 BPS"
+        },
+        {
+            "Id": "41433883",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic4143/41433883_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4143/41433883_001.jpg",
+                    "updatedDate": "2026-01-30T04:49:10Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4143/41433883_003.jpg",
+                    "updatedDate": "2026-01-30T04:49:10Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4143/41433883_004.jpg",
+                    "updatedDate": "2026-01-30T04:49:10Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4143/41433883_007.jpg",
+                    "updatedDate": "2026-01-30T04:49:10Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "M50i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202210,
+            "FormYear": "2022",
+            "Mileage": 54962,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 7835,
+            "Lease": "2",
+            "SellType": "리스",
+            "BuyType": [],
+            "LeaseType": "금융리스",
+            "AcceptanceCharge": 900,
+            "MonthLeasePrice": 149,
+            "MonthLeaseRest": 56,
+            "MonthLeaseTotal": 60,
+            "ResidualValue": 0,
+            "Succession": 0,
+            "ModifiedDate": "2026-02-02 23:55:02.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "아인모터스",
+            "DealerName": "홍성진"
+        },
+        {
+            "Id": "39314199",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture01/pic3931/39314199_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture01/pic3931/39314199_001.jpg",
+                    "updatedDate": "2025-03-27T00:35:14Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture01/pic3931/39314199_003.jpg",
+                    "updatedDate": "2025-03-27T00:35:14Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture01/pic3931/39314199_004.jpg",
+                    "updatedDate": "2025-03-27T00:35:14Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture01/pic3931/39314199_007.jpg",
+                    "updatedDate": "2025-03-27T00:35:14Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (E53)",
+            "Badge": "3.0i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 200412,
+            "FormYear": "2004",
+            "Mileage": 178074,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 600,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-02 23:55:02.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "한결모터스",
+            "DealerName": "도현석"
+        },
+        {
+            "Id": "41432396",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic4143/41432396_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4143/41432396_001.jpg",
+                    "updatedDate": "2026-01-29T13:04:20Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4143/41432396_003.jpg",
+                    "updatedDate": "2026-01-29T13:04:20Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4143/41432396_004.jpg",
+                    "updatedDate": "2026-01-29T13:04:20Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4143/41432396_007.jpg",
+                    "updatedDate": "2026-01-29T13:04:20Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (F15)",
+            "Badge": "xDrive 30d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201403,
+            "FormYear": "2014",
+            "Mileage": 261530,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 1530,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-02 23:52:04.000 +09",
+            "OfficeCityState": "경남",
+            "OfficeName": "한강모터스",
+            "DealerName": "권두현"
+        },
+        {
+            "Id": "41325149",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture02/pic4132/41325149_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4132/41325149_001.jpg",
+                    "updatedDate": "2026-01-13T07:20:42Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4132/41325149_003.jpg",
+                    "updatedDate": "2026-01-13T07:20:42Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4132/41325149_004.jpg",
+                    "updatedDate": "2026-01-13T07:20:42Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4132/41325149_007.jpg",
+                    "updatedDate": "2026-01-13T07:20:42Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (F15)",
+            "Badge": "xDrive 30d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201502,
+            "FormYear": "2015",
+            "Mileage": 89193,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 2770,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-02 23:52:03.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "재경모터스",
+            "DealerName": "황의곤"
+        },
+        {
+            "Id": "41445806",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture04/pic4144/41445806_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture04/pic4144/41445806_001.jpg",
+                    "updatedDate": "2026-02-02T05:52:19Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture04/pic4144/41445806_003.jpg",
+                    "updatedDate": "2026-02-02T05:52:19Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture04/pic4144/41445806_004.jpg",
+                    "updatedDate": "2026-02-02T05:52:19Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture04/pic4144/41445806_007.jpg",
+                    "updatedDate": "2026-02-02T05:52:19Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (F15)",
+            "Badge": "xDrive 30d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201506,
+            "FormYear": "2015",
+            "Mileage": 168377,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 2050,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-02-02 23:52:02.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "5호창진모터스",
+            "DealerName": "손승진"
+        },
+        {
+            "Id": "40948863",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection"
+            ],
+            "Photo": "/carpicture03/pic4093/40932836_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4093/40932836_001.jpg",
+                    "updatedDate": "2025-11-12T08:19:43Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4093/40932836_003.jpg",
+                    "updatedDate": "2025-11-12T08:19:43Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4093/40932836_004.jpg",
+                    "updatedDate": "2025-11-12T08:19:43Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4093/40932836_007.jpg",
+                    "updatedDate": "2025-11-12T08:19:43Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "X5 (G05)",
+            "Badge": "xDrive 40i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202203,
+            "FormYear": "2022",
+            "Mileage": 19879,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 10900,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-02-02 23:44:02.000 +09",
+            "OfficeCityState": "대전",
+            "OfficeName": "태양자동차(주)",
+            "DealerName": "이상현"
+        }
+    ]
+}

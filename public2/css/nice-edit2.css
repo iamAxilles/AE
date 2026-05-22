@@ -1,0 +1,99 @@
+body{
+    background-color: aliceblue;
+      color: #111111;
+  --effect-scale: 1.1;
+}
+
+
+.shadow{
+    box-shadow: 1pc 5px 50px #141414, 0 5px 6px #0b0a0a;
+}
+
+.gyeongju{ 
+    font-size: 1.3rem;
+    font-family: copperplate;
+}
+
+.dongdae-ro{
+    font-family: courier new;
+}
+
+.initial-font{
+    font-family: initial;
+}
+
+.custom-expanded2{
+    left: 4pc;
+}
+
+.ground{
+    background: #EEF2FF;
+}
+
+.ground2{
+    background: #1D293D;
+    color: #ffffff;
+}
+
+.textcenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@font-face{
+      font-family: 'Oswald2'; 
+    src: url('css/font/Oswald2.woff2') format('woff2');
+    }
+/*nicepage:18616*/
+
+.u-container-layout{
+    top: -8pc;
+    left: -11pc;
+    position: relative;
+    font-family: Oswald;
+    margin-right: -100px;
+}
+
+
+/* Планшеты (>= 768px) */
+@media (min-width: 768px) {
+  .u-container-layout { 
+          top: -14pc;
+    left: -3pc;
+    position: relative;
+    font-family: Oswald;
+
+    }
+}
+
+/* Ноутбуки/Десктопы (>= 992px) */
+@media (min-width: 992px) {
+  .u-container-layout { 
+          top: -12pc;
+    left: 0pc;
+    position: relative;
+    font-family: Oswald;
+
+    }
+}
+
+/* Большие экраны (>= 1200px) */
+@media (min-width: 1200px) {
+  .u-container-layout { 
+          top: -7pc;
+    left: -10pc;
+    position: relative;
+    font-family: Oswald;
+
+    }
+    .u-text-1{
+        /*font-size: 7.5rem;*/
+    }
+}
+
+@media (width <= 1200px){
+    .navigator-ipad{
+    padding: 0 50px 0 50px;
+    }
+}

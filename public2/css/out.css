@@ -1,0 +1,104 @@
+/*@import url('https://fonts.google.com/share?selection.family=Nanum+Myeongjo')*/
+
+data{
+  padding-top: 5pc;
+  display: grid;
+  justify-content: center;
+  /*background-color: whitesmoke;*/
+  min-height: 15pc;
+}
+
+output {
+  display: flex;
+  align-items: center;
+  /*
+  margin: 10 55px;
+  left: 20pc;
+  position: inherit;
+  flex-flow: column wrap;
+  */
+  /*margin-left: -20pc;*/
+}
+
+output + a {
+   vertical-align: middle;
+
+}
+
+output img {
+  vertical-align: middle;
+
+}
+
+@font-face{
+  font-family: JeonjuCraftMjL;
+    src: url("font/JeonjuCraftMjL.woff2") format('woff2');
+}
+
+
+output ul {
+  list-style-type: none;
+  /*font-family: JeonjuCraftMjL;*/
+  
+  color: black;
+  font-size: large;
+}
+output ul:hover{
+  color: dimgray;
+}
+
+output li {
+  line-height: 2.2;
+}
+
+.main-logo{
+    opacity: 0.7;
+}
+
+a:hover img {   
+/*  background-color: yellow; */
+  opacity: 1;
+}
+
+output>a>img{
+  width: 250px;
+}
+output>a>img:hover{
+  opacity: 0.8;
+}
+
+select[name='sort']{
+  visibility: hidden;
+  float: right;
+  z-index: 2;
+  right: 10vw;
+}
+select.kuzova{
+  visibility: visible;
+  float: right;
+  z-index: 2;
+  right: 18vw;
+}
+
+/*a:link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #666;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #ff0000;
+}*/
+
+
+
+
+

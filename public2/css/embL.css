@@ -1,0 +1,285 @@
+#Hyu + label:hover {
+/*  background-image:url(emblemPics/Hyundai-Logo-2.png);*/
+
+}
+
+/*  - - - -  ### ul menu - - - - - -  */
+/*section{
+    padding: 40px;
+    height: 100;
+    padding-bottom: 50;
+    position: absolute;
+
+}*/
+
+/*section{
+
+  padding-top: 10px;
+  height: 170; 
+  width: 1000;
+  position: absolute;
+  top: 650;
+}*/
+
+
+/*.Korea{
+    padding-top: 40;
+
+
+}
+.Deutsch{
+    padding-top: 100;
+
+
+}
+.USA{
+    padding-top: 150;
+
+
+}*/
+
+/*data{
+  position: relative;
+  background: white;
+  margin: 30;
+}*/
+
+.u-section-2{
+
+}
+
+.section2 {
+  overflow-y: hidden;
+  /*white-space: nowrap;*/
+  /*height: auto;*/
+  /*background-color: whitesmoke;*/
+  /*display: inline-flex;*/
+  align-items: baseline;
+  /*эмблемы по центру: */
+  display: flex;
+  justify-content: space-around;
+  }
+@media only screen and (min-device-width : 375px) and (max-device-width : 812px){
+  .section2{
+    justify-content: unset;
+  }
+}
+
+
+
+search>ul{
+  margin-left: 1.6pc;
+}
+
+input[type="radio"]{
+   display:none;
+}
+/*ul {
+  display: none;
+  position: absolute;
+}*/
+
+input+label{
+    background-repeat: no-repeat;
+    
+    display:inline-block;
+
+    margin: 0 24px;
+    /* cursor:pointer; */
+
+    z-index: 1;
+}
+
+.Hyu,
+.Chevy,
+.Ki,
+.BM,
+.MRC,
+.prce {
+/*  position: relative;*/
+  display: table;
+  margin-block-start: 0.5lh;
+/*  background-color: #1C2833 ;*/
+/*  background: transparent;*/
+/*    color: transparent;*/
+
+  line-height: 0;
+  transition: line-height 0.5s, color 0.5s;
+/*    я    */
+  width: 130;
+
+  /* position: absolute; */
+}
+
+.menu-item {
+  overflow: hidden;
+}
+
+.menu-link {
+  display: flex;
+  /*padding: 0.6lh ;*/
+  color: #E8DAEF ;
+  text-decoration: none;
+
+  padding-left: 50;
+}
+
+
+ul#list {
+  background-color: rgba(0, 0, 0, 0.55);
+  padding-left: 0;
+  /*left: 5;*/
+  width: 22mm;
+  }
+ul#list>li>a{
+  padding-left: 3mm;
+}
+
+.menu-link:hover,
+.menu-link:focus-visible {
+/*  background-color: Maroon;*/
+   border: 1px solid blue;
+   text-shadow: 0 0 3px hsla(260, 100%, 70%, 0.7);
+   color: hsl(260, 100%, 80%);
+}
+
+/*  выпадает - мигает  */
+
+#Hyu + label{
+  background-image:url(emblemPics/Hyundai-Logo.png);
+  background-size: 120px 70px; height: 70px; width: 120px;   
+}
+  #Hyu + label:hover{
+    opacity: 0.8;
+    transition: 0.4s;
+  }
+#Hyu:checked+label {
+  background-image:url(emblemPics/Hyundai-Logo-2.png);
+}
+#Hyu:checked ~ .Hyu{
+  line-height: 2.2;
+  color: currentColor;
+}
+
+#Kia + label{
+  background-image:url(emblemPics/kia.png);
+  background-size: 150px; height: 55px; width: 150px;
+}
+  #Kia + label:hover{
+    opacity: 0.8;
+    transition: 0.4s;
+  }
+#Kia:checked+label{
+  background-image:url(emblemPics/kia2.png);
+}
+#Kia:checked ~ .Ki{
+  line-height: 2.2;
+  color: currentColor;
+}
+
+#bmw + label{
+  background-image:url(emblemPics/bmw.png);
+  background-size: contain; height: 85px; width: 100px;
+
+}
+  #bmw + label:hover{
+    opacity: 0.8;
+    transition: 0.4s;
+  }
+
+#bmw:checked+label{
+  background-image:url(emblemPics/bmw2.png);
+  background-size: contain; height: 85px; width: 100px;
+}
+#bmw:checked ~ .BM{
+  line-height: 2.2;
+  color: currentColor;
+}
+
+#merc + label{
+  background-image:url(emblemPics/merc5.png);
+  background-size: contain; height: 88px; width: 100px;
+}
+  #merc + label:hover{
+  opacity: 0.8;
+  transition: 0.4s;
+  }
+#merc:checked+label{
+  background-image:url(emblemPics/merc6.png);
+  background-size: contain; height: 88px; width: 100px;
+}
+#merc:checked ~ .MRC{
+  line-height: 2.2;
+  color: currentColor;
+}
+
+#pors + label{
+  background-image:url(emblemPics/po.png);
+  background-size: contain; height: 88px; width: 69px;
+}
+  #pors + label:hover{
+  opacity: 0.8;
+  transition: 0.4s;
+  }
+#pors:checked+label{
+  background-image:url(emblemPics/po2.png);
+  background-size: contain; height: 88px; width: 69px;
+}
+#pors:checked ~ .prce{
+  line-height: 2.2;
+  color: currentColor;
+}
+
+ul#list.prce {
+
+}
+
+#Au + label{
+  background-image:url(emblemPics/aud3.png);
+  background-size: contain; height: 63px; width: 120px;
+}
+  #Au + label:hover{
+  opacity: 0.8;
+  transition: 0.4s;
+  }
+#Au:checked+label{
+  background-image:url(emblemPics/aud2.png);
+  background-size: contain; height: 63px; width: 120px;
+}
+#Au:checked ~ .aud{
+  line-height: 2.2;
+  color: currentColor;
+ 
+}
+
+.aud{
+  display: table;
+  margin-block-start: 0.5lh;
+  /* height: 0; */
+/*  overflow: hidden;*/
+  line-height: 0;
+  transition: line-height 0.5s, color 0.5s, height 0.5s;
+
+  /* position: absolute; */
+
+}
+sup{
+  display: none;
+}
+
+#Chev + label{
+  background-image:url(emblemPics/chevy.png);
+  background-size: 120px 70px; height: 65px; width: 120px;
+}
+  #Chev + label:hover{
+  opacity: 0.8;
+  transition: 0.4s;
+  }
+#Chev[type="radio"]:checked + label{
+  background-image:url(emblemPics/chevy-2.png);
+}
+#Chev:checked ~ .Chevy{
+  line-height: 2.2;
+  color: currentColor;
+}
+

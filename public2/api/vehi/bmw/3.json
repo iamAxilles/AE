@@ -1,0 +1,3066 @@
+{
+    "Count": 477,
+    "SearchResults": [
+        {
+            "Id": "41572289",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP2"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture07/pic4157/41570363_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture07/pic4157/41570363_027.jpg",
+                    "updatedDate": "2026-02-26T08:55:05Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture07/pic4157/41570363_003.jpg",
+                    "updatedDate": "2026-02-26T08:55:05Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture07/pic4157/41570363_004.jpg",
+                    "updatedDate": "2026-02-26T08:55:05Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture07/pic4157/41570363_007.jpg",
+                    "updatedDate": "2026-02-26T08:55:05Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201811,
+            "FormYear": "2018",
+            "Mileage": 124225,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 1950,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:57:03.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "주식회사 모터스링크",
+            "DealerName": "장용호"
+        },
+        {
+            "Id": "39341603",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture04/pic3934/39341603_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture04/pic3934/39341603_001.jpg",
+                    "updatedDate": "2025-03-31T02:16:44Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture04/pic3934/39341603_003.jpg",
+                    "updatedDate": "2025-03-31T02:16:44Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture04/pic3934/39341603_004.jpg",
+                    "updatedDate": "2025-03-31T02:16:44Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture04/pic3934/39341603_007.jpg",
+                    "updatedDate": "2025-03-31T02:16:44Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (E90)",
+            "Badge": "320i 세단",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 200705,
+            "FormYear": "2007",
+            "Mileage": 83463,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 580,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:57:02.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "다온모터스",
+            "DealerName": "함무현"
+        },
+        {
+            "Id": "41136359",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic4113/41136359_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4113/41136359_001.jpg",
+                    "updatedDate": "2025-12-09T12:50:20Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4113/41136359_003.jpg",
+                    "updatedDate": "2025-12-09T12:50:20Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4113/41136359_004.jpg",
+                    "updatedDate": "2025-12-09T12:50:20Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4113/41136359_007.jpg",
+                    "updatedDate": "2025-12-09T12:50:20Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "330e M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린+전기",
+            "Year": 202106,
+            "FormYear": "2021",
+            "Mileage": 111000,
+            "AdWords": "*레이저라이트*ACC*SVM*완전풀옵션*NOPAINT*TAX100*집앞배송OK*",
+            "Hotmark": "09;12;14",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 3050,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:57:02.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "휘카",
+            "DealerName": "김동휘"
+        },
+        {
+            "Id": "41570363",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP2"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture07/pic4157/41570363_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture07/pic4157/41570363_027.jpg",
+                    "updatedDate": "2026-02-26T08:55:05Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture07/pic4157/41570363_003.jpg",
+                    "updatedDate": "2026-02-26T08:55:05Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture07/pic4157/41570363_004.jpg",
+                    "updatedDate": "2026-02-26T08:55:05Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture07/pic4157/41570363_007.jpg",
+                    "updatedDate": "2026-02-26T08:55:05Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201811,
+            "FormYear": "2018",
+            "Mileage": 124225,
+            "AdWords": "전국 3시리즈 중 단 한대, 어라운드뷰/디지털 계기판/베이지시트",
+            "Hotmark": "08;09;13",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 1950,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:56:03.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "주식회사 모터스링크",
+            "DealerName": "장용호"
+        },
+        {
+            "Id": "39292039",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture09/pic3929/39292039_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture09/pic3929/39292039_001.jpg",
+                    "updatedDate": "2025-03-25T05:10:55Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture09/pic3929/39292039_003.jpg",
+                    "updatedDate": "2025-03-25T05:10:55Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture09/pic3929/39292039_004.jpg",
+                    "updatedDate": "2025-03-25T05:10:55Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture09/pic3929/39292039_007.jpg",
+                    "updatedDate": "2025-03-25T05:10:55Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201803,
+            "FormYear": "2018",
+            "Mileage": 88544,
+            "AdWords": "엔카 실촬영 #내비+블박+전동+열선 #타이어:80~90%",
+            "Hotmark": "12;14;15",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 1477,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:55:03.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "CAR유모터스",
+            "DealerName": "최찬호"
+        },
+        {
+            "Id": "41537346",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic4153/41533283_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4153/41533283_001.jpg",
+                    "updatedDate": "2026-02-20T05:50:53Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4153/41533283_003.jpg",
+                    "updatedDate": "2026-02-20T05:50:53Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4153/41533283_004.jpg",
+                    "updatedDate": "2026-02-20T05:50:53Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4153/41533283_007.jpg",
+                    "updatedDate": "2026-02-20T05:50:53Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201801,
+            "FormYear": "2018",
+            "Mileage": 47633,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 2090,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:55:02.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "리본카 천안지점",
+            "DealerName": "신세화"
+        },
+        {
+            "Id": "41567108",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Record"
+            ],
+            "Photo": "/carpicture06/pic4156/41566805_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4156/41566805_001.jpg",
+                    "updatedDate": "2026-02-26T01:36:39Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4156/41566805_003.jpg",
+                    "updatedDate": "2026-02-26T01:36:39Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4156/41566805_004.jpg",
+                    "updatedDate": "2026-02-26T01:36:39Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4156/41566805_007.jpg",
+                    "updatedDate": "2026-02-26T01:36:39Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "330e i퍼포먼스 M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린+전기",
+            "Year": 201812,
+            "FormYear": "2018",
+            "Mileage": 51156,
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 2880,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:54:02.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "이차로컴퍼니",
+            "DealerName": "김정호"
+        },
+        {
+            "Id": "41533283",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic4153/41533283_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4153/41533283_001.jpg",
+                    "updatedDate": "2026-02-20T05:50:53Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4153/41533283_003.jpg",
+                    "updatedDate": "2026-02-20T05:50:53Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4153/41533283_004.jpg",
+                    "updatedDate": "2026-02-20T05:50:53Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4153/41533283_007.jpg",
+                    "updatedDate": "2026-02-20T05:50:53Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201801,
+            "FormYear": "2018",
+            "Mileage": 47633,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 2090,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:54:02.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "리본카 천안지점",
+            "DealerName": "신세화"
+        },
+        {
+            "Id": "41531957",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic4153/41531957_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4153/41531957_001.jpg",
+                    "updatedDate": "2026-02-20T05:41:32Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4153/41531957_003.jpg",
+                    "updatedDate": "2026-02-20T05:41:32Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4153/41531957_004.jpg",
+                    "updatedDate": "2026-02-20T05:41:32Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4153/41531957_007.jpg",
+                    "updatedDate": "2026-02-20T05:41:32Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201303,
+            "FormYear": "2013",
+            "Mileage": 136338,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 850,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:54:02.000 +09",
+            "OfficeCityState": "충북",
+            "OfficeName": "드림모터스",
+            "DealerName": "김민환"
+        },
+        {
+            "Id": "41551924",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture05/pic4155/41551924_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture05/pic4155/41551924_001.jpg",
+                    "updatedDate": "2026-02-24T04:53:01Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture05/pic4155/41551924_003.jpg",
+                    "updatedDate": "2026-02-24T04:53:01Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture05/pic4155/41551924_004.jpg",
+                    "updatedDate": "2026-02-24T04:53:01Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture05/pic4155/41551924_007.jpg",
+                    "updatedDate": "2026-02-24T04:53:01Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320d M 퍼포먼스 에디션",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201509,
+            "FormYear": "2015",
+            "Mileage": 121231,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 1299,
+            "SalesStatus": "CONTRACT",
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:53:02.000 +09",
+            "OfficeCityState": "경남",
+            "OfficeName": "한우카",
+            "DealerName": "양우석"
+        },
+        {
+            "Id": "41566805",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Record"
+            ],
+            "Photo": "/carpicture06/pic4156/41566805_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4156/41566805_001.jpg",
+                    "updatedDate": "2026-02-26T01:36:39Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4156/41566805_003.jpg",
+                    "updatedDate": "2026-02-26T01:36:39Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4156/41566805_004.jpg",
+                    "updatedDate": "2026-02-26T01:36:39Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4156/41566805_007.jpg",
+                    "updatedDate": "2026-02-26T01:36:39Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "330e i퍼포먼스 M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린+전기",
+            "Year": 201812,
+            "FormYear": "2018",
+            "Mileage": 51156,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 2880,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:53:02.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "이차로컴퍼니",
+            "DealerName": "김정호"
+        },
+        {
+            "Id": "39339524",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic3933/39339524_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic3933/39339524_001.jpg",
+                    "updatedDate": "2025-03-31T06:26:36Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic3933/39339524_003.jpg",
+                    "updatedDate": "2025-03-31T06:26:36Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic3933/39339524_004.jpg",
+                    "updatedDate": "2025-03-31T06:26:36Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic3933/39339524_007.jpg",
+                    "updatedDate": "2025-03-31T06:26:36Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201205,
+            "FormYear": "2012",
+            "Mileage": 112919,
+            "AdWords": "SK 엔카 실 촬영 무사고 관리상태 최상 최저가에 판매합니다",
+            "Hotmark": "12;14;19",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 799,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:52:02.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "쿨카",
+            "DealerName": "김해중"
+        },
+        {
+            "Id": "41168621",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4116/41168621_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4116/41168621_001.jpg",
+                    "updatedDate": "2025-12-15T03:46:42Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4116/41168621_003.jpg",
+                    "updatedDate": "2025-12-15T03:46:42Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4116/41168621_004.jpg",
+                    "updatedDate": "2025-12-15T03:46:42Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4116/41168621_007.jpg",
+                    "updatedDate": "2025-12-15T03:46:42Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "330e",
+            "Transmission": "오토",
+            "FuelType": "가솔린+전기",
+            "Year": 202007,
+            "FormYear": "2020",
+            "Mileage": 67357,
+            "AdWords": "완전무사고/1인신조/짧은주행거리/전국최저가 ",
+            "Hotmark": "09;10;19",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 3200,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:52:02.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "현모터스",
+            "DealerName": "신현재"
+        },
+        {
+            "Id": "41333800",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic4133/41333800_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4133/41333800_001.jpg",
+                    "updatedDate": "2026-01-13T04:49:10Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4133/41333800_003.jpg",
+                    "updatedDate": "2026-01-13T04:49:10Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4133/41333800_004.jpg",
+                    "updatedDate": "2026-01-13T04:49:10Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4133/41333800_007.jpg",
+                    "updatedDate": "2026-01-13T04:49:10Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320d ED에디션",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201512,
+            "FormYear": "2016",
+            "Mileage": 169120,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 1150,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:52:02.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "대구모터스",
+            "DealerName": "윤선하"
+        },
+        {
+            "Id": "41555341",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture05/pic4155/41554978_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture05/pic4155/41554978_001.jpg",
+                    "updatedDate": "2026-02-24T07:02:47Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture05/pic4155/41554978_003.jpg",
+                    "updatedDate": "2026-02-24T07:02:47Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture05/pic4155/41554978_004.jpg",
+                    "updatedDate": "2026-02-24T07:02:47Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture05/pic4155/41554978_007.jpg",
+                    "updatedDate": "2026-02-24T07:02:47Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "M340i xDrive 투어링 퍼포먼스",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202202,
+            "FormYear": "2022",
+            "Mileage": 24314,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 6470,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:51:56.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)아라모터스",
+            "DealerName": "이기철"
+        },
+        {
+            "Id": "41186459",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture07/pic4117/41173704_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture07/pic4117/41173704_001.jpg",
+                    "updatedDate": "2025-12-19T13:42:17Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture07/pic4117/41173704_003.jpg",
+                    "updatedDate": "2025-12-19T13:42:17Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture07/pic4117/41173704_004.jpg",
+                    "updatedDate": "2025-12-19T13:42:17Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture07/pic4117/41173704_007.jpg",
+                    "updatedDate": "2025-12-19T13:42:17Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320d M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202309,
+            "FormYear": "2023",
+            "Mileage": 87195,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 3990,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:51:05.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "이차로컴퍼니",
+            "DealerName": "김정호"
+        },
+        {
+            "Id": "40787057",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture08/pic4078/40787057_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture08/pic4078/40787057_001.jpg",
+                    "updatedDate": "2025-10-23T06:43:03Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture08/pic4078/40787057_003.jpg",
+                    "updatedDate": "2025-10-23T06:43:03Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture08/pic4078/40787057_004.jpg",
+                    "updatedDate": "2025-10-23T06:43:03Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture08/pic4078/40787057_007.jpg",
+                    "updatedDate": "2025-10-23T06:43:03Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (E90)",
+            "Badge": "335i 세단",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 200712,
+            "FormYear": "2007",
+            "Mileage": 196867,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 670,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:51:02.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)와니파트너스",
+            "DealerName": "한원준"
+        },
+        {
+            "Id": "41554978",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture05/pic4155/41554978_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture05/pic4155/41554978_001.jpg",
+                    "updatedDate": "2026-02-24T07:02:47Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture05/pic4155/41554978_003.jpg",
+                    "updatedDate": "2026-02-24T07:02:47Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture05/pic4155/41554978_004.jpg",
+                    "updatedDate": "2026-02-24T07:02:47Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture05/pic4155/41554978_007.jpg",
+                    "updatedDate": "2026-02-24T07:02:47Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "M340i xDrive 투어링 퍼포먼스",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202202,
+            "FormYear": "2022",
+            "Mileage": 24314,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 6470,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:50:56.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)아라모터스",
+            "DealerName": "이기철"
+        },
+        {
+            "Id": "41192940",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture09/pic4119/41192940_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture09/pic4119/41192940_001.jpg",
+                    "updatedDate": "2025-12-18T05:41:36Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture09/pic4119/41192940_003.jpg",
+                    "updatedDate": "2025-12-18T05:41:36Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture09/pic4119/41192940_004.jpg",
+                    "updatedDate": "2025-12-18T05:41:36Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture09/pic4119/41192940_007.jpg",
+                    "updatedDate": "2025-12-18T05:41:36Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320e M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린+전기",
+            "Year": 202206,
+            "FormYear": "2022",
+            "Mileage": 60987,
+            "AdWords": "퍼포먼수 패키지 등급",
+            "Hotmark": "13;14;15",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 2980,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:50:07.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "우성 모터스",
+            "DealerName": "김형욱"
+        },
+        {
+            "Id": "41173704",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture07/pic4117/41173704_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture07/pic4117/41173704_001.jpg",
+                    "updatedDate": "2025-12-19T13:42:17Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture07/pic4117/41173704_003.jpg",
+                    "updatedDate": "2025-12-19T13:42:17Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture07/pic4117/41173704_004.jpg",
+                    "updatedDate": "2025-12-19T13:42:17Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture07/pic4117/41173704_007.jpg",
+                    "updatedDate": "2025-12-19T13:42:17Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320d M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202309,
+            "FormYear": "2023",
+            "Mileage": 87195,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 3990,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:50:05.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "이차로컴퍼니",
+            "DealerName": "김정호"
+        },
+        {
+            "Id": "41323913",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture02/pic4132/41322324_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4132/41322324_001.jpg",
+                    "updatedDate": "2026-01-12T01:45:13Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4132/41322324_003.jpg",
+                    "updatedDate": "2026-01-12T01:45:13Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4132/41322324_004.jpg",
+                    "updatedDate": "2026-01-12T01:45:13Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4132/41322324_007.jpg",
+                    "updatedDate": "2026-01-12T01:45:13Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "M340i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202305,
+            "FormYear": "2023",
+            "Mileage": 32784,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 6390,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:50:02.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "(주)유카",
+            "DealerName": "임성남"
+        },
+        {
+            "Id": "41322324",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture02/pic4132/41322324_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4132/41322324_001.jpg",
+                    "updatedDate": "2026-01-12T01:45:13Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4132/41322324_003.jpg",
+                    "updatedDate": "2026-01-12T01:45:13Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4132/41322324_004.jpg",
+                    "updatedDate": "2026-01-12T01:45:13Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4132/41322324_007.jpg",
+                    "updatedDate": "2026-01-12T01:45:13Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "M340i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202305,
+            "FormYear": "2023",
+            "Mileage": 32784,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 6390,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:49:02.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "(주)유카",
+            "DealerName": "임성남"
+        },
+        {
+            "Id": "41434049",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic4143/41434049_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4143/41434049_001.jpg",
+                    "updatedDate": "2026-01-30T02:31:38Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4143/41434049_003.jpg",
+                    "updatedDate": "2026-01-30T02:31:38Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4143/41434049_004.jpg",
+                    "updatedDate": "2026-01-30T02:31:38Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4143/41434049_007.jpg",
+                    "updatedDate": "2026-01-30T02:31:38Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201304,
+            "FormYear": "2013",
+            "Mileage": 247193,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 530,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:48:03.000 +09",
+            "OfficeCityState": "대전",
+            "OfficeName": "(주)바이오토",
+            "DealerName": "신효성"
+        },
+        {
+            "Id": "41201088",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture10/pic4120/41201088_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture10/pic4120/41201088_001.jpg",
+                    "updatedDate": "2025-12-22T01:36:53Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture10/pic4120/41201088_003.jpg",
+                    "updatedDate": "2025-12-22T01:36:53Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture10/pic4120/41201088_004.jpg",
+                    "updatedDate": "2025-12-22T01:36:53Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture10/pic4120/41201088_007.jpg",
+                    "updatedDate": "2025-12-22T01:36:53Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320d 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201502,
+            "FormYear": "2015",
+            "Mileage": 94685,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 1340,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:48:03.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "해피카",
+            "DealerName": "함석진"
+        },
+        {
+            "Id": "41194491",
+            "Separation": [
+                "B",
+                "F"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture09/pic4119/41194491_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture09/pic4119/41194491_001.jpg",
+                    "updatedDate": "2025-12-23T08:16:46Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture09/pic4119/41194491_003.jpg",
+                    "updatedDate": "2025-12-23T08:16:46Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture09/pic4119/41194491_004.jpg",
+                    "updatedDate": "2025-12-23T08:16:46Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture09/pic4119/41194491_007.jpg",
+                    "updatedDate": "2025-12-23T08:16:46Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202503,
+            "FormYear": "2025",
+            "Mileage": 10126,
+            "BrandAuthCmnt": "BMW가보증하는프리미엄중고차",
+            "AdWords": "엔카 실촬영",
+            "Hotmark": "14;15;13",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 4450,
+            "Lease": "2",
+            "SellType": "리스",
+            "BuyType": [],
+            "LeaseType": "금융리스",
+            "AcceptanceCharge": 1335,
+            "MonthLeasePrice": 65,
+            "MonthLeaseRest": 58,
+            "MonthLeaseTotal": 61,
+            "ResidualValue": 0,
+            "Succession": 0,
+            "ModifiedDate": "2026-03-01 21:47:02.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)동성모터스",
+            "DealerName": "(주)동성모터스 BPS"
+        },
+        {
+            "Id": "39260603",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic3926/39260603_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic3926/39260603_001.jpg",
+                    "updatedDate": "2025-03-19T04:59:52Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic3926/39260603_003.jpg",
+                    "updatedDate": "2025-03-19T04:59:52Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic3926/39260603_004.jpg",
+                    "updatedDate": "2025-03-19T04:59:52Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic3926/39260603_007.jpg",
+                    "updatedDate": "2025-03-19T04:59:52Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320i 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201701,
+            "FormYear": "2017",
+            "Mileage": 122547,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 1550,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:47:01.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "BJ 모터스",
+            "DealerName": "정봉재"
+        },
+        {
+            "Id": "41356502",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture05/pic4135/41353230_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture05/pic4135/41353230_001.jpg",
+                    "updatedDate": "2026-01-16T00:46:08Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture05/pic4135/41353230_003.jpg",
+                    "updatedDate": "2026-01-16T00:46:08Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture05/pic4135/41353230_004.jpg",
+                    "updatedDate": "2026-01-16T00:46:08Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture05/pic4135/41353230_007.jpg",
+                    "updatedDate": "2026-01-16T00:46:08Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202503,
+            "FormYear": "2025",
+            "Mileage": 4527,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 5340,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:46:04.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "유카",
+            "DealerName": "고병찬"
+        },
+        {
+            "Id": "41497973",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture08/pic4148/41489027_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture08/pic4148/41489027_001.jpg",
+                    "updatedDate": "2026-02-10T08:35:38Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture08/pic4148/41489027_003.jpg",
+                    "updatedDate": "2026-02-10T08:35:38Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture08/pic4148/41489027_004.jpg",
+                    "updatedDate": "2026-02-10T08:35:38Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture08/pic4148/41489027_007.jpg",
+                    "updatedDate": "2026-02-10T08:35:38Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202306,
+            "FormYear": "2023",
+            "Mileage": 20663,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 4800,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:46:03.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "유카",
+            "DealerName": "송노민"
+        },
+        {
+            "Id": "41446485",
+            "Separation": [
+                "B",
+                "F"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture04/pic4144/41446485_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture04/pic4144/41446485_001.jpg",
+                    "updatedDate": "2026-02-04T01:54:32Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture04/pic4144/41446485_003.jpg",
+                    "updatedDate": "2026-02-04T01:54:32Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture04/pic4144/41446485_004.jpg",
+                    "updatedDate": "2026-02-04T01:54:32Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture04/pic4144/41446485_007.jpg",
+                    "updatedDate": "2026-02-04T01:54:32Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320i 투어링",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202409,
+            "FormYear": "2024",
+            "Mileage": 12184,
+            "BrandAuthCmnt": "BMW가보증하는프리미엄중고차",
+            "AdWords": "엔카 실촬영",
+            "Hotmark": "14;15;13",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 4130,
+            "Lease": "2",
+            "SellType": "리스",
+            "BuyType": [],
+            "LeaseType": "금융리스",
+            "AcceptanceCharge": 0,
+            "MonthLeasePrice": 87,
+            "MonthLeaseRest": 60,
+            "MonthLeaseTotal": 61,
+            "ResidualValue": 0,
+            "Succession": 0,
+            "ModifiedDate": "2026-03-01 21:46:02.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)동성모터스",
+            "DealerName": "(주)동성모터스 BPS"
+        },
+        {
+            "Id": "41353230",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture05/pic4135/41353230_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture05/pic4135/41353230_001.jpg",
+                    "updatedDate": "2026-01-16T00:46:08Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture05/pic4135/41353230_003.jpg",
+                    "updatedDate": "2026-01-16T00:46:08Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture05/pic4135/41353230_004.jpg",
+                    "updatedDate": "2026-01-16T00:46:08Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture05/pic4135/41353230_007.jpg",
+                    "updatedDate": "2026-01-16T00:46:08Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202503,
+            "FormYear": "2025",
+            "Mileage": 4527,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 5340,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:45:04.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "유카",
+            "DealerName": "고병찬"
+        },
+        {
+            "Id": "41459247",
+            "Separation": [],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Record"
+            ],
+            "Photo": "/carpicture05/pic4145/41459247_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture05/pic4145/41459247_001.jpg",
+                    "updatedDate": "2026-02-04T00:27:47Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture05/pic4145/41459247_003.jpg",
+                    "updatedDate": "2026-02-04T00:27:47Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture05/pic4145/41459247_004.jpg",
+                    "updatedDate": "2026-02-04T00:27:47Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture05/pic4145/41459247_007.jpg",
+                    "updatedDate": "2026-02-04T00:27:47Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202512,
+            "FormYear": "2026",
+            "Mileage": 1000,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 5300,
+            "Lease": "1",
+            "SellType": "리스",
+            "BuyType": [],
+            "LeaseType": "운용리스",
+            "AcceptanceCharge": 0,
+            "MonthLeasePrice": 68,
+            "MonthLeaseRest": 58,
+            "MonthLeaseTotal": 61,
+            "Deposit": 0,
+            "ResidualValue": 2941,
+            "Succession": 200,
+            "ModifiedDate": "2026-03-01 21:45:03.000 +09",
+            "OfficeCityState": "충남",
+            "DealerName": "전송수"
+        },
+        {
+            "Id": "41315929",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture01/pic4131/41315929_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture01/pic4131/41315929_001.jpg",
+                    "updatedDate": "2026-01-09T05:33:26Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture01/pic4131/41315929_003.jpg",
+                    "updatedDate": "2026-01-09T05:33:26Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture01/pic4131/41315929_004.jpg",
+                    "updatedDate": "2026-01-09T05:33:26Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture01/pic4131/41315929_007.jpg",
+                    "updatedDate": "2026-01-09T05:33:26Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "330e 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "가솔린+전기",
+            "Year": 202103,
+            "FormYear": "2021",
+            "Mileage": 56181,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 3399,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:45:03.000 +09",
+            "OfficeCityState": "전북",
+            "OfficeName": "(유한)엠카",
+            "DealerName": "원광민"
+        },
+        {
+            "Id": "41489027",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture08/pic4148/41489027_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture08/pic4148/41489027_001.jpg",
+                    "updatedDate": "2026-02-10T08:35:38Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture08/pic4148/41489027_003.jpg",
+                    "updatedDate": "2026-02-10T08:35:38Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture08/pic4148/41489027_004.jpg",
+                    "updatedDate": "2026-02-10T08:35:38Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture08/pic4148/41489027_007.jpg",
+                    "updatedDate": "2026-02-10T08:35:38Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202306,
+            "FormYear": "2023",
+            "Mileage": 20663,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 4800,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:45:03.000 +09",
+            "OfficeCityState": "충남",
+            "OfficeName": "유카",
+            "DealerName": "송노민"
+        },
+        {
+            "Id": "41552462",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "Record"
+            ],
+            "Photo": "/carpicture05/pic4155/41552462_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture05/pic4155/41552462_001.jpg",
+                    "updatedDate": "2026-02-24T02:40:57Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture05/pic4155/41552462_003.jpg",
+                    "updatedDate": "2026-02-24T02:40:57Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture05/pic4155/41552462_004.jpg",
+                    "updatedDate": "2026-02-24T02:40:57Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture05/pic4155/41552462_007.jpg",
+                    "updatedDate": "2026-02-24T02:40:57Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320i 럭셔리",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202103,
+            "FormYear": "2021",
+            "Mileage": 43284,
+            "AdWords": "100% 정식 서비스 센터 관리 / 제조사 보증 남음",
+            "Hotmark": "10;26;12",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 3450,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:45:03.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "타요모터스",
+            "DealerName": "박찬현"
+        },
+        {
+            "Id": "40962813",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4096/40962813_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4096/40962813_001.jpg",
+                    "updatedDate": "2025-11-17T02:35:09Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4096/40962813_003.jpg",
+                    "updatedDate": "2025-11-17T02:35:09Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4096/40962813_004.jpg",
+                    "updatedDate": "2025-11-17T02:35:09Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4096/40962813_007.jpg",
+                    "updatedDate": "2025-11-17T02:35:09Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201608,
+            "FormYear": "2016",
+            "Mileage": 139732,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 1390,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:44:02.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "주식회사 모터스링크",
+            "DealerName": "장용호"
+        },
+        {
+            "Id": "41324556",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture01/pic4131/41313813_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture01/pic4131/41313813_001.jpg",
+                    "updatedDate": "2026-01-12T02:40:17Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture01/pic4131/41313813_003.jpg",
+                    "updatedDate": "2026-01-12T02:40:17Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture01/pic4131/41313813_004.jpg",
+                    "updatedDate": "2026-01-12T02:40:17Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture01/pic4131/41313813_007.jpg",
+                    "updatedDate": "2026-01-12T02:40:17Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202405,
+            "FormYear": "2024",
+            "Mileage": 13557,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 4800,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:43:03.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "제이에스(JS)모터스",
+            "DealerName": "박시현"
+        },
+        {
+            "Id": "41313813",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture01/pic4131/41313813_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture01/pic4131/41313813_001.jpg",
+                    "updatedDate": "2026-01-12T02:40:17Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture01/pic4131/41313813_003.jpg",
+                    "updatedDate": "2026-01-12T02:40:17Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture01/pic4131/41313813_004.jpg",
+                    "updatedDate": "2026-01-12T02:40:17Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture01/pic4131/41313813_007.jpg",
+                    "updatedDate": "2026-01-12T02:40:17Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202405,
+            "FormYear": "2024",
+            "Mileage": 13557,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 4800,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:42:03.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "제이에스(JS)모터스",
+            "DealerName": "박시현"
+        },
+        {
+            "Id": "41540470",
+            "Separation": [],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [],
+            "Photo": "/carpicture04/pic4154/41540470_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture04/pic4154/41540470_001.jpg",
+                    "updatedDate": "2026-02-21T05:38:28Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture04/pic4154/41540470_003.jpg",
+                    "updatedDate": "2026-02-21T05:38:28Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture04/pic4154/41540470_004.jpg",
+                    "updatedDate": "2026-02-21T05:38:28Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture04/pic4154/41540470_007.jpg",
+                    "updatedDate": "2026-02-21T05:38:28Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320d M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202410,
+            "FormYear": "2024",
+            "Mileage": 14346,
+            "AdWords": "수출가능 차량 신차급 차량 상태 관리 ",
+            "Hotmark": "21;14;20",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 6172,
+            "Lease": "1",
+            "SellType": "리스",
+            "BuyType": [],
+            "LeaseType": "운용리스",
+            "AcceptanceCharge": 0,
+            "MonthLeasePrice": 79,
+            "MonthLeaseRest": 44,
+            "MonthLeaseTotal": 61,
+            "Deposit": 0,
+            "ResidualValue": 2890,
+            "Succession": 79,
+            "ModifiedDate": "2026-03-01 21:42:03.000 +09",
+            "OfficeCityState": "대구",
+            "DealerName": "손길수"
+        },
+        {
+            "Id": "41521054",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture02/pic4152/41520030_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4152/41520030_001.jpg",
+                    "updatedDate": "2026-02-13T08:38:21Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4152/41520030_003.jpg",
+                    "updatedDate": "2026-02-13T08:38:21Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4152/41520030_004.jpg",
+                    "updatedDate": "2026-02-13T08:38:21Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4152/41520030_007.jpg",
+                    "updatedDate": "2026-02-13T08:38:21Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "330i M 스포츠 쉐도우",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201805,
+            "FormYear": "2018",
+            "Mileage": 68117,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 2530,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:42:02.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "인생내차",
+            "DealerName": "박대흠"
+        },
+        {
+            "Id": "40657449",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture05/pic4065/40657449_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture05/pic4065/40657449_001.jpg",
+                    "updatedDate": "2025-09-30T06:05:43Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture05/pic4065/40657449_003.jpg",
+                    "updatedDate": "2025-09-30T06:05:43Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture05/pic4065/40657449_004.jpg",
+                    "updatedDate": "2025-09-30T06:05:43Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture05/pic4065/40657449_007.jpg",
+                    "updatedDate": "2025-09-30T06:05:43Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201207,
+            "FormYear": "2012",
+            "Mileage": 136250,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 690,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:41:39.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "태성모터스",
+            "DealerName": "정현동"
+        },
+        {
+            "Id": "41315446",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture01/pic4131/41313874_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture01/pic4131/41313874_001.jpg",
+                    "updatedDate": "2026-01-09T04:38:37Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture01/pic4131/41313874_003.jpg",
+                    "updatedDate": "2026-01-09T04:38:37Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture01/pic4131/41313874_004.jpg",
+                    "updatedDate": "2026-01-09T04:38:37Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture01/pic4131/41313874_007.jpg",
+                    "updatedDate": "2026-01-09T04:38:37Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320d 투어링 M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202208,
+            "FormYear": "2022",
+            "Mileage": 37216,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 3999,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:41:04.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "킹모터스",
+            "DealerName": "이홍식"
+        },
+        {
+            "Id": "41514154",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP0"
+            ],
+            "Condition": [
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture01/pic4151/41514154_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture01/pic4151/41514154_001.jpg",
+                    "updatedDate": "2026-02-13T05:37:43Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture01/pic4151/41514154_003.jpg",
+                    "updatedDate": "2026-02-13T05:37:43Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture01/pic4151/41514154_004.jpg",
+                    "updatedDate": "2026-02-13T05:37:43Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture01/pic4151/41514154_007.jpg",
+                    "updatedDate": "2026-02-13T05:37:43Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320d",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 201506,
+            "FormYear": "2015",
+            "Mileage": 272616,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 480,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:41:02.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "강산상사",
+            "DealerName": "김상력"
+        },
+        {
+            "Id": "41520030",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture02/pic4152/41520030_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4152/41520030_001.jpg",
+                    "updatedDate": "2026-02-13T08:38:21Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4152/41520030_003.jpg",
+                    "updatedDate": "2026-02-13T08:38:21Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4152/41520030_004.jpg",
+                    "updatedDate": "2026-02-13T08:38:21Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4152/41520030_007.jpg",
+                    "updatedDate": "2026-02-13T08:38:21Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "330i M 스포츠 쉐도우",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201805,
+            "FormYear": "2018",
+            "Mileage": 68117,
+            "AdWords": "엔카진단-홈서비스,완전무사고,레드시트,신형키개조,전동트렁크!",
+            "Hotmark": "09;14;19",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 2530,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:41:02.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "인생내차",
+            "DealerName": "박대흠"
+        },
+        {
+            "Id": "37904050",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture10/pic3790/37904050_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture10/pic3790/37904050_001.jpg",
+                    "updatedDate": "2025-03-11T23:03:08Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture10/pic3790/37904050_003.jpg",
+                    "updatedDate": "2025-03-11T23:03:08Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture10/pic3790/37904050_004.jpg",
+                    "updatedDate": "2025-03-11T23:03:08Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture10/pic3790/37904050_007.jpg",
+                    "updatedDate": "2025-03-11T23:03:08Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201207,
+            "FormYear": "2012",
+            "Mileage": 109500,
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 950,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:40:30.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "비전모터스",
+            "DealerName": "김제희"
+        },
+        {
+            "Id": "41313874",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "Warranty"
+            ],
+            "ServiceMark": [
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture01/pic4131/41313874_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture01/pic4131/41313874_001.jpg",
+                    "updatedDate": "2026-01-09T04:38:37Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture01/pic4131/41313874_003.jpg",
+                    "updatedDate": "2026-01-09T04:38:37Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture01/pic4131/41313874_004.jpg",
+                    "updatedDate": "2026-01-09T04:38:37Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture01/pic4131/41313874_007.jpg",
+                    "updatedDate": "2026-01-09T04:38:37Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320d 투어링 M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "디젤",
+            "Year": 202208,
+            "FormYear": "2022",
+            "Mileage": 37216,
+            "AdWords": "보증연장 27년8월 20만Km까지 레이져라이트 어뎁티브크루즈",
+            "Hotmark": "19;24;26",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 3999,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:40:04.000 +09",
+            "OfficeCityState": "대구",
+            "OfficeName": "킹모터스",
+            "DealerName": "이홍식"
+        },
+        {
+            "Id": "41334003",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture03/pic4133/41333122_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture03/pic4133/41333122_001.jpg",
+                    "updatedDate": "2026-01-13T04:39:41Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture03/pic4133/41333122_003.jpg",
+                    "updatedDate": "2026-01-13T04:39:41Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture03/pic4133/41333122_004.jpg",
+                    "updatedDate": "2026-01-13T04:39:41Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture03/pic4133/41333122_007.jpg",
+                    "updatedDate": "2026-01-13T04:39:41Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202309,
+            "FormYear": "2023",
+            "Mileage": 28386,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 4230,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:40:03.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)오토멤버스",
+            "DealerName": "이장수"
+        },
+        {
+            "Id": "41080929",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture09/pic4089/40898262_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture09/pic4089/40898262_001.jpg",
+                    "updatedDate": "2025-11-10T00:08:14Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture09/pic4089/40898262_003.jpg",
+                    "updatedDate": "2025-11-10T00:08:14Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture09/pic4089/40898262_004.jpg",
+                    "updatedDate": "2025-11-10T00:08:14Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture09/pic4089/40898262_007.jpg",
+                    "updatedDate": "2025-11-10T00:08:14Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320i M 스포츠 쉐도우",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201812,
+            "FormYear": "2018",
+            "Mileage": 52083,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 2260,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:39:05.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)라희 동부산점",
+            "DealerName": "이미량"
+        },
+        {
+            "Id": "41021206",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture10/pic4100/41004865_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture10/pic4100/41004865_001.jpg",
+                    "updatedDate": "2025-11-21T06:59:47Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture10/pic4100/41004865_003.jpg",
+                    "updatedDate": "2025-11-21T06:59:47Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture10/pic4100/41004865_004.jpg",
+                    "updatedDate": "2025-11-21T06:59:47Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture10/pic4100/41004865_007.jpg",
+                    "updatedDate": "2025-11-21T06:59:47Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320i M 스포츠",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201812,
+            "FormYear": "2018",
+            "Mileage": 20762,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 2390,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:39:05.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)라희 동부산점",
+            "DealerName": "이미량"
+        },
+        {
+            "Id": "41569302",
+            "Separation": [
+                "B"
+            ],
+            "Trust": [
+                "HomeService"
+            ],
+            "ServiceMark": [
+                "EncarMeetgo",
+                "EncarDiagnosisP1"
+            ],
+            "Condition": [
+                "Inspection",
+                "Record",
+                "Resume"
+            ],
+            "Photo": "/carpicture06/pic4156/41568958_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture06/pic4156/41568958_001.jpg",
+                    "updatedDate": "2026-02-26T05:00:31Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture06/pic4156/41568958_003.jpg",
+                    "updatedDate": "2026-02-26T05:00:31Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture06/pic4156/41568958_004.jpg",
+                    "updatedDate": "2026-02-26T05:00:31Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture06/pic4156/41568958_007.jpg",
+                    "updatedDate": "2026-02-26T05:00:31Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (F30)",
+            "Badge": "320i M 스포츠 쉐도우",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 201812,
+            "FormYear": "2018",
+            "Mileage": 18848,
+            "HomeServiceVerification": "Y",
+            "ServiceCopyCar": "DUPLICATION",
+            "Price": 2950,
+            "SellType": "일반",
+            "BuyType": [
+                "Delivery"
+            ],
+            "ModifiedDate": "2026-03-01 21:39:05.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)라희 동부산점",
+            "DealerName": "이미량"
+        },
+        {
+            "Id": "41422058",
+            "Separation": [
+                "B",
+                "F"
+            ],
+            "Trust": [],
+            "ServiceMark": [],
+            "Condition": [
+                "Inspection",
+                "InspectionDirect",
+                "Record"
+            ],
+            "Photo": "/carpicture02/pic4142/41422058_",
+            "Photos": [
+                {
+                    "type": "001",
+                    "location": "/carpicture02/pic4142/41422058_001.jpg",
+                    "updatedDate": "2026-01-30T01:43:28Z",
+                    "ordering": 1
+                },
+                {
+                    "type": "003",
+                    "location": "/carpicture02/pic4142/41422058_003.jpg",
+                    "updatedDate": "2026-01-30T01:43:28Z",
+                    "ordering": 3
+                },
+                {
+                    "type": "004",
+                    "location": "/carpicture02/pic4142/41422058_004.jpg",
+                    "updatedDate": "2026-01-30T01:43:28Z",
+                    "ordering": 4
+                },
+                {
+                    "type": "007",
+                    "location": "/carpicture02/pic4142/41422058_007.jpg",
+                    "updatedDate": "2026-01-30T01:43:28Z",
+                    "ordering": 7
+                }
+            ],
+            "Manufacturer": "BMW",
+            "Model": "3시리즈 (G20)",
+            "Badge": "320i",
+            "Transmission": "오토",
+            "FuelType": "가솔린",
+            "Year": 202105,
+            "FormYear": "2021",
+            "Mileage": 21666,
+            "BrandAuthCmnt": "BMW가보증하는프리미엄중고차",
+            "AdWords": "엔카 실촬영",
+            "Hotmark": "14;15;13",
+            "ServiceCopyCar": "ORIGINAL",
+            "Price": 2700,
+            "SellType": "일반",
+            "BuyType": [],
+            "ModifiedDate": "2026-03-01 21:39:05.000 +09",
+            "OfficeCityState": "부산",
+            "OfficeName": "(주)동성모터스",
+            "DealerName": "(주)동성모터스 BPS"
+        }
+    ]
+}

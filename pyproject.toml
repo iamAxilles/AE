@@ -1,0 +1,7 @@
+[project]
+name = "aese"
+version = "0.1.0"
+description = "SkA"
+requires-python = "==3.13.9"
+[tool.fastapi]
+entrypoint = "main:app"
