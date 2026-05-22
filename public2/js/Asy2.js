@@ -6,7 +6,7 @@
             credentials: 'include'
         });
             let FER = await fech.json();
-         // FER = JSON.parse(FER);
+         // FER = JSON.parse(SRjson);
 
         sorts.dates(FER);
             
